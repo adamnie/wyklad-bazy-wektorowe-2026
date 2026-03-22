@@ -1,0 +1,144 @@
+
+
+Kierunek studiów
+    Informatyka (kierunek wspólny - WI i WEAIiIB)
+Specjalność
+    -
+Jednostka organizacyjna
+    Wydział Informatyki
+Poziom kształcenia
+    Studia inżynierskie I stopnia
+Forma studiów
+    Stacjonarne
+Profil studiów
+    Ogólnoakademicki
+
+Cykl dydaktyczny
+    2025/2026
+Kod przedmiotu
+    WIINFS.Ii8.02739.25
+Języki wykładowe
+    polski
+Obligatoryjność
+    Obowiązkowy
+Blok zajęciowy
+    Przedmioty kierunkowe
+Przedmiot powiązany z badaniami naukowymi
+    Nie
+
+Koordynator przedmiotu
+Jacek Długopolski
+Prowadzący zajęcia
+Jacek Długopolski
+Okres
+Semestr 4
+
+Forma zaliczenia
+Zaliczenie
+Forma prowadzenia i godziny zajęć
+Wykład: 28
+Ćwiczenia laboratoryjne: 14
+
+Liczba punktów ECTS
+3
+Cele kształcenia dla przedmiotu
+C1 	Zapoznanie studentów z zakresem podstawowej wiedzy dotyczącej działania, budowy i projektowania układów cyfrowych.
+Efekty uczenia się dla przedmiotu
+Kod 	Efekty w zakresie 	Kierunkowe efekty uczenia się 	Metody weryfikacji
+Wiedzy – Student zna i rozumie:
+W1 	Zna i rozumie sprzętową implementację prostej i złożonej funkcji logicznej 	INF1A_W08 	Odpowiedź ustna
+W2 	Zna i rozumie znaczenie wszystkich spraw i koncepcji omawianych w module. 	INF1A_W08 	Odpowiedź ustna
+W3 	Zna i rozumie realizacje wszystkich układów kombinacyjnych i sekwencyjnych poznanych w module 	INF1A_W08 	Odpowiedź ustna
+Umiejętności – Student potrafi:
+U1 	Potrafi zaprojektować układ cyfrowy w układzie FPGA 	INF1A_U09 	Wykonanie ćwiczeń laboratoryjnych
+U2 	Potrafi zaprojektować proste i średnie złożone, wskazane układy kombinacyjne 	INF1A_U09 	Wykonanie ćwiczeń laboratoryjnych
+U3 	Potrafi zaprojektować przykładowe układy sekwencyjne 	INF1A_U09 	Wykonanie ćwiczeń laboratoryjnych
+Kompetencji społecznych – Student jest gotów do:
+K1 	Rozumie potrzebę doskonalenia własnych umiejętności i zdobywania najnowszej wiedzy na temat budowy i działania nowoczesnych systemów cyfrowych (np. FPGA) jako niezbędnych dla dalszego rozwoju nauki, technologii i inżynierii. Wykorzystując nowoczesne technologie do realizacji wybranego zadania, może on także planować pracę i ustalać priorytety, aby w końcu osiągnąć właściwy rezultat. 	INF1A_K04 	Odpowiedź ustna
+Treści programowe zapewniające uzyskanie efektów uczenia się dla modułu zajęć
+Moduł omawia budowę i działanie podstawowych układów cyfrowych. Pozwala zapoznać się z metodami projektowania układów kombinacyjnych i sekwencyjnych oraz z ich praktyczną realizacją w układach FPGA.
+Nakład pracy studenta
+Rodzaje zajęć studenta 	Średnia liczba godzin* przeznaczonych na zrealizowane aktywności
+Wykład 	28
+Ćwiczenia laboratoryjne 	14
+Przygotowanie do zajęć 	14
+Samodzielne studiowanie tematyki zajęć 	24
+Dodatkowe godziny kontaktowe 	5
+Egzamin lub kolokwium zaliczeniowe 	2
+Łączny nakład pracy studenta
+Liczba godzin
+87
+Liczba godzin kontaktowych
+Liczba godzin
+42
+
+* godzina (lekcyjna) oznacza 45 minut
+Treści programowe
+Lp. 	Treści programowe 	Efekty uczenia się dla przedmiotu 	Formy prowadzenia zajęć
+1.
+
+Wykonanie przygotowanego przez prowadzącego zestawu ćwiczeń laboratoryjnych na stanowisku wyposażonym w środowisko symulacyjne Multisim oraz wykonanie szczegółowego pisemnego sprawozdania.
+
+Praktyczne projektowanie układów cyfrowych i ich uruchamianie na stanowisku wyposażonym w zestaw z programowalnym układem FPGA.
+	U1, U2, U3 	Ćwiczenia laboratoryjne
+2.
+
+Celem wykładu jest zapoznanie studentów z podstawami budowy układów cyfrowych i z technikami ich projektowania. Studenci poznają istotę cyfrowych układów kombinacyjnych i układów sekwencyjnych oraz różnicę pomiędzy nimi, a także dowiadują się o metodach i możliwościach praktycznej realizacji projektowanych układów cyfrowych przy pomocy programowalnych układów logicznych FPGA.
+
+Program wykładu:
+# Wprowadzenie definicji i pojęć podstawowych oraz zagadnień związanych z podstawami elektroniki.
+# Budowa i zasada działania podstawowych bramek logicznych: NOT, AND, OR, NOR, NAND, … itp.
+# Zastosowanie bramek logicznych NAND i NOR w realizacji dowolnych funkcji logicznych.
+# Omówienie metod minimalizacji funkcji logicznych z zastosowaniem praw logiki oraz tablic Karnaugh.
+# Cyfrowe układy asynchroniczne i synchroniczne.
+# Budowa i zasada działania przerzutników bistabilnych (m.in.: RS, JK, T, D) , monostablnych i astabilnych.
+# Rodzaje, budowa i zasada działania liczników, koderów, dekoderów, multiplekserów i demultiplekserów.
+# Podstawy działania układów mnożących.
+# Automaty Mealy’ego i Moore’a.
+# Budowa cyfrowych układów programowalnych typu SPLD, CPLD i FPGA oraz metody i techniki ich konfigurowania.
+
+Przedstawione powyżej zagadnienia są przewidziane do realizacji w ramach 28 godzin wykładów.
+	W1, W2, W3, K1 	Wykład
+Informacje rozszerzone
+Metody i techniki kształcenia :
+
+Demonstracja, instruktaż, Kształcenie zdalne, Mini wykład
+Rodzaj zajęć 	Metody zaliczenia 	Warunki zaliczenia przedmiotu
+Wykład 	Odpowiedź ustna
+Ćwiczenia laboratoryjne 	Wykonanie ćwiczeń laboratoryjnych
+Dodatkowy opis
+
+Wykłady z przedmiotu będą prowadzone stacjonarnie lub w sposób zdalny z wykorzystaniem platformy Webex/Teams.
+
+Pozostałe zajęcia (ćwiczenia laboratoryjne) będą odbywać się stacjonarnie w wyznaczonych salach.
+Warunki i sposób zaliczenia poszczególnych form zajęć, w tym zasady zaliczeń poprawkowych, a także warunki dopuszczenia do egzaminu
+
+Ocenę z ćwiczeń laboratoryjnych wystawia prowadzący zajęcia na podstawie zrealizowanych przez studenta poszczególnych zadań oraz na podstawie wiedzy zdobytej przez studenta w czasie wykładów i w czasie wykonywania ćwiczeń laboratoryjnych. Wiedza ta sprawdzana jest podczas kolokwium lub za pomocą odpowiedzi ustnych w trakcie przedstawiania przez studenta zrealizowanych ćwiczeń laboratoryjnych. Dokładne szczegóły sposobu zaliczania przedmiotu podaje prowadzący na pierwszych zajęciach. Ze względu na laboratoryjną formę przedmiotu, niedostępny jest poprawkowy termin zaliczania ćwiczeń laboratoryjnych. Student musi zaliczyć przedmiot w czasie zajęć podstawowych.
+Sposób obliczania oceny końcowej
+
+Ocenę końcową stanowi ocena uzyskana z ćwiczeń laboratoryjnych.
+Sposób i tryb wyrównywania zaległości powstałych wskutek nieobecności studenta na zajęciach
+
+W razie uzasadnionej i usprawiedliwionej nieobecności na danych zajęciach, student wyłącznie za zgodą prowadzącego może wyrównać powstałe w ten sposób zaległości z inną grubą laboratoryjną (jeśli będzie to fizycznie możliwe) w terminie wskazanym przez prowadzącego zajęcia.
+Wymagania wstępne i dodatkowe
+
+Wymagane wiadomości z zakresu podstaw elektrotechniki i elektroniki oraz logiki.
+
+Zasady udziału w poszczególnych zajęciach, ze wskazaniem, czy obecność studenta na zajęciach jest obowiązkowa
+
+Wykład: Studenci uczestniczą w zajęciach poznając kolejne treści nauczania, zgodnie z syllabusem przedmiotu. Studenci winni na bieżąco zadawać pytania i wyjaśniać wątpliwości związane z przedstawianym materiałem. Rejestracja audiowizualna wykładu WYMAGA wyraźnej zgody prowadzącego.
+
+Ćwiczenia laboratoryjne: Studenci wykonują ćwiczenia laboratoryjne zgodnie z materiałami udostępnionymi przez prowadzącego. Student jest zobowiązany do przygotowania się w przedmiocie wykonywanego ćwiczenia, co może być weryfikowane w formie ustnej lub w formie pisemnej. Zaliczenie zajęć odbywa się na podstawie zaprezentowanego rozwiązania dla postawionego problemu oraz na podstawie dostarczonego szczegółowego sprawozdania z przebiegu realizowanego ćwiczenia. Student musi się wykazać pełną wiedzą dotyczącą zrealizowanego ćwiczenia laboratoryjnego. Zaliczenie całego modułu jest możliwe po zaliczeniu wszystkich zajęć laboratoryjnych.
+
+
+Literatura
+Obowiązkowa
+
+    Literatura podstawowa:
+    A. Skorupski – "Podstawy techniki cyfrowej", WKŁ 2004
+    J. Kalisz – "Podstawy elektroniki cyfrowej" – WKŁ 2007
+    Literatura uzupełniająca:
+    P.Horowitz, W.Hill – "Sztuka elektroniki" – WKŁ 2000
+    A. Skorupski – "Podstawy techniki cyfrowej" WKŁ 2001
+    B. Wilkinson – "Układy cyfrowe" WKŁ 2000
+

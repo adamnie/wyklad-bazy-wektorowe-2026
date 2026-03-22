@@ -1,0 +1,171 @@
+
+
+Kierunek studiów
+    Informatyka (kierunek wspólny - WI i WEAIiIB)
+Specjalność
+    -
+Jednostka organizacyjna
+    Wydział Informatyki
+Poziom kształcenia
+    Studia inżynierskie I stopnia
+Forma studiów
+    Stacjonarne
+Profil studiów
+    Ogólnoakademicki
+
+Cykl dydaktyczny
+    2025/2026
+Kod przedmiotu
+    WIINFS.Ii8.08694.25
+Języki wykładowe
+    polski
+Obligatoryjność
+    Obowiązkowy
+Blok zajęciowy
+    Przedmioty kierunkowe
+Przedmiot powiązany z badaniami naukowymi
+    Tak
+
+Koordynator przedmiotu
+Marcin Kurdziel
+Prowadzący zajęcia
+Marcin Kurdziel, Rafał Grzeszczuk
+Okres
+Semestr 4
+
+Forma zaliczenia
+Zaliczenie
+Forma prowadzenia i godziny zajęć
+Wykład: 14
+Ćwiczenia laboratoryjne: 14
+
+Liczba punktów ECTS
+3
+Cele kształcenia dla przedmiotu
+C1 	Niniejszy kurs stanowi wprowadzenie do metod i algorytmów statystycznego uczenia maszynowego. Zasadniczy materiał kursu obejmuje wybrane modele dla problemów regresji i klasyfikacji danych. Zostaną one przedstawione zarówno w wariancie klasycznym jak i w ujęciu Bayesowskim. Materiał ten uzupełnia wprowadzenie do metod MC/MCMC i tzw. programowania probabilistycznego (ang. probabilistic programming).
+Efekty uczenia się dla przedmiotu
+Kod 	Efekty w zakresie 	Kierunkowe efekty uczenia się 	Metody weryfikacji
+Wiedzy – Student zna i rozumie:
+W1 	Student ma wiedzę z zakresu wnioskowania Bayesowskiego oraz wybranych metod estymacji parametrów modeli uczących się. 	INF1A_W07 	Aktywność na zajęciach, Odpowiedź ustna, Zaliczenie laboratorium
+W2 	Student ma wiedzę z zakresu wybranych modeli uczenia maszynowego dla problemów regresji i klasyfikacji danych. 	INF1A_W07 	Aktywność na zajęciach, Odpowiedź ustna, Zaliczenie laboratorium
+Umiejętności – Student potrafi:
+U1 	Student potrafi zaimplementować wybrane modele statystycznego uczenia maszynowego. 	INF1A_U05, INF1A_U07 	Wykonanie ćwiczeń laboratoryjnych, Zaliczenie laboratorium
+U2 	Student zna wybrane biblioteki przydatne w implementacji metod statystycznego uczenia maszynowego. 	INF1A_U05, INF1A_U07 	Wykonanie ćwiczeń laboratoryjnych, Zaliczenie laboratorium
+U3 	Student potrafi wytrenować wybrane modele statystycznego uczenia maszynowego i ocenić ich skuteczność. 	INF1A_U05, INF1A_U07 	Wykonanie ćwiczeń laboratoryjnych, Zaliczenie laboratorium
+Treści programowe zapewniające uzyskanie efektów uczenia się dla modułu zajęć
+
+Niniejszy kurs stanowi wprowadzenie do metod i algorytmów statystycznego uczenia maszynowego. Zasadniczy materiał kursu obejmuje wybrane modele dla problemów regresji i klasyfikacji danych. Zostaną one przedstawione zarówno w wariancie klasycznym jak i w ujęciu Bayesowskim. Materiał ten uzupełnia wprowadzenie do metod MC/MCMC i tzw. programowania probabilistycznego (ang. probabilistic programming).
+Nakład pracy studenta
+Rodzaje zajęć studenta 	Średnia liczba godzin* przeznaczonych na zrealizowane aktywności
+Wykład 	14
+Ćwiczenia laboratoryjne 	14
+Przygotowanie do zajęć 	25
+Samodzielne studiowanie tematyki zajęć 	25
+Dodatkowe godziny kontaktowe 	5
+Egzamin lub kolokwium zaliczeniowe 	2
+Łączny nakład pracy studenta
+Liczba godzin
+85
+Liczba godzin kontaktowych
+Liczba godzin
+28
+
+* godzina (lekcyjna) oznacza 45 minut
+Treści programowe
+Lp. 	Treści programowe 	Efekty uczenia się dla przedmiotu 	Formy prowadzenia zajęć
+1.
+
+
+    Częstotliwościowa i Bayesowska interpretacja prawdopodobieństwa. Twierdzenie Bayesa. Wiarygodność, rozkład a priori i rozkład a posteriori. Wnioskowanie Bayesowskie. Pojęcie rozkładu sprzężonego. Przykład: model Beta-dwumianowy. (2h)
+
+    Wielowymiarowy rozkład normalny i jego własności. Parametryzacja: wartość przeciętna i macierz kowariancji. Rozkład łączny, brzegowy i warunkowy zmiennych normalnych. Liniowe modele Gaussowskie (2h)
+
+    Modele liniowe dla problemu regresji. Regresja liniowa w ujęciu klasycznym (MLE). Bayesowska regresja liniowa. (2h)
+
+    Wprowadzenie do procesów Gaussowskich. Regresja procesem Gaussowskim. (2h)
+
+    Modele liniowe dla problemu klasyfikacji. Regresja logistyczna i wieloklasowa regresja logistyczna. Estymator MLE dla regresji logistycznej. Stochastyczny spadek wzdłuż gradientu. (2h)
+
+    Metody Monte Carlo we wnioskowaniu Bayesowskim. Algorytmy generowania próbek. Metody MC: importance sampling. Estymacja parametrów metodą Monte Carlo. (2h)
+
+    Metody MCMC: Metropolis-Hastings. Hierarchiczne modele Bayesowskie. Model generujący dla obserwacji. Programowanie probabilistyczne. (2h)
+
+	W1, W2 	Wykład
+2.
+
+
+    Wprowadzenie do pakietów obliczeniowych w języku Python. (2h)
+
+    Wielowymiarowy rozkład normalny i liniowe modele Gaussowskie. (2h)
+    - Liniowy model Gaussowski dla zagadnienia estymacji położenia obiektu.
+
+    Regresji liniowa. (2h)
+    - Implementacja klasycznej regresji liniowej z estymatorem MLE.
+    - Implementacja Bayesowskiej regresji liniowej.
+
+    Procesy Gaussowskie. (2h)
+    - Implementacja regresji procesem Gaussowskim.
+
+    Regresja logistyczna. (2h)
+    - Implementacja wieloklasowej regresji logistycznej dla zdjęć ręcznie pisanych cyfr.
+
+    Wnioskowanie metodami Monte Carlo. (2h)
+    - Wprowadzenie do pakietu TensorFlow Probability.
+    - Implementacja algorytmu Importance Sampling.
+
+    Programowanie probabilistyczne w TensorFlow Probability. (2h)
+    - Opracowanie modelu generującego dla wskazanego zbioru obserwacji.
+    - Estymacja parametrów opracowanego modelu i wnioskowanie o postawionych hipotezach dotyczących obserwacji.
+
+	U1, U2, U3 	Ćwiczenia laboratoryjne
+Informacje rozszerzone
+Metody i techniki kształcenia :
+
+Ćwiczenia laboratoryjne, Wykład
+Rodzaj zajęć 	Metody zaliczenia 	Warunki zaliczenia przedmiotu
+Wykład 	Aktywność na zajęciach, Odpowiedź ustna, Zaliczenie laboratorium 	Zaliczenie przedmiotu wymaga uzyskania oceny pozytywnej z ćwiczeń laboratoryjnych.
+Ćwiczenia laboratoryjne 	Wykonanie ćwiczeń laboratoryjnych, Zaliczenie laboratorium 	Zaliczenie przedmiotu wymaga uzyskania oceny pozytywnej z ćwiczeń laboratoryjnych.
+Dodatkowy opis
+
+Wykłady z przedmiotu będą prowadzone w sposob zdalny z wykorzystaniem platformy Webex/Teams.
+
+Pozostałe zajęcia będą odbywać się w salach. Dotyczy to także zaliczeń i egzaminów odbywajacych się w sesjach egzaminacyjnych.
+Warunki i sposób zaliczenia poszczególnych form zajęć, w tym zasady zaliczeń poprawkowych, a także warunki dopuszczenia do egzaminu
+
+    Warunkiem zaliczenia ćwiczeń laboratoryjnych jest uczestnictwo w zajęciach i uzyskanie oceny minimum 3.0 z każdego labolatorium.
+    W ramach zajęć laboratoryjnych mogą być przeprowadzone dodatkowe kolokwia sprawdzające wiedzę z przedmiotu. Warunkiem zaliczenia laboratorium jest zdanie tych kolokwiów (jeśli będą przeprowadzone). Ocenę negatywną z kolokwium można poprawić na kolokwium zaliczeniowym pod koniec semestru.
+    Po spełnieniu warunków zaliczenia, pozytywną oceną z ćwiczeń laboratoryjnych jest średnia ocen z zadań i kolokwiów zaokrąglona do najbliższej oceny przewidzianej regulaminem studiów.
+
+Sposób obliczania oceny końcowej
+
+    Warunkiem uzyskania pozytywnej oceny końcowej jest uzyskanie pozytywnej oceny z ćwiczeń labolatoryjnych.
+    Oceną końcową jest ocena z ćwiczeń laboratoryjnych. Pozytywna ocena końcowa może zostać podwyższona w przypadku znaczącej aktywności studenta na wykładzie.
+
+Sposób i tryb wyrównywania zaległości powstałych wskutek nieobecności studenta na zajęciach
+
+Zaległości w realizacji zadań (powstałe na przykład w skutek usprawiedliwionej nieobecności) powinny być nadrobione w ramach kolejnych zajęć.
+Wymagania wstępne i dodatkowe
+
+Wiedza i umiejętności w zakresie przedmiotu "Rachunek prawdopodobieństwa i statystyka"
+
+Zasady udziału w poszczególnych zajęciach, ze wskazaniem, czy obecność studenta na zajęciach jest obowiązkowa
+
+Wykład: Rejestracja audiowizualna wykładu wymaga zgody prowadzącego.
+
+Ćwiczenia laboratoryjne: Studenci wykonują ćwiczenia laboratoryjne zgodnie z materiałami udostępnionymi przez prowadzącego. Obecność na ćwiczeniach laboratoryjnych jest obowiązkowa.
+Literatura
+Obowiązkowa
+
+    Kevin P. Murphy "Machine Learning: A probabilistic perspective", MIT Press, 2012
+
+Dodatkowa
+
+    Christopher M. Bishop "Pattern Recognition and Machine Learning", Springer, 2007
+
+Badania i publikacje
+Publikacje
+
+    M. Jamroż, M. Kurdziel, M. Opala. "A Bayesian nonparametrics view into deep representations." Advances in Neural Information Processing Systems 33 (2020): 1440-1450.
+    K. Grzegorczyk, M. Kurdziel. ”Disambiguated Skip-gram model.” In: Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, EMNLP2018, pp 1445–1454, 2018
+    P.I. Wójcik, M. Kurdziel “Training neural networks on high-dimensional data using random projection.” Pattern Analysis and Applications, https://doi.org/10.1007/s10044-018-0697-0, 2018
+    K. Grzegorczyk, M. Kurdziel “Binary Paragraph Vectors.” In: Proceedings of the 2nd Workshop on Representation Learning for NLP, ACL2017, pp 121-130, 2017

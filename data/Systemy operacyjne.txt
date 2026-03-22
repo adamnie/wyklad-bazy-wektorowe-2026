@@ -1,0 +1,175 @@
+
+Systemy operacyjne
+Karta opisu przedmiotu
+Informacje podstawowe
+
+Kierunek studiów
+    Informatyka (kierunek wspólny - WI i WEAIiIB)
+Specjalność
+    -
+Jednostka organizacyjna
+    Wydział Informatyki
+Poziom kształcenia
+    Studia inżynierskie I stopnia
+Forma studiów
+    Stacjonarne
+Profil studiów
+    Ogólnoakademicki
+
+Cykl dydaktyczny
+    2025/2026
+Kod przedmiotu
+    WIINFS.Ii8.01051.25
+Języki wykładowe
+    polski
+Obligatoryjność
+    Obowiązkowy
+Blok zajęciowy
+    Przedmioty kierunkowe
+Przedmiot powiązany z badaniami naukowymi
+    Tak
+
+Koordynator przedmiotu
+Leszek Kotulski
+Prowadzący zajęcia
+Leszek Kotulski
+Okres
+Semestr 4
+
+Forma zaliczenia
+Egzamin
+Forma prowadzenia i godziny zajęć
+Wykład: 28
+Ćwiczenia laboratoryjne: 14
+
+Liczba punktów ECTS
+3
+Cele kształcenia dla przedmiotu
+C1 	Zapoznanie studentów z zasadami funkcjonowania systemów operacyjnych oraz metodami ich budowy
+Efekty uczenia się dla przedmiotu
+Kod 	Efekty w zakresie 	Kierunkowe efekty uczenia się 	Metody weryfikacji
+Wiedzy – Student zna i rozumie:
+W1 	Student zna i rozumie podstawowe pojęcia problemów synchronizacji, stosowane mechanizmy synchronizacji, algorytmy zapobiegania zakleszczeniom i unikania. 	INF1A_W05 	Aktywność na zajęciach, Kolokwium
+W2 	Student zna i rozumie strukturę i funkcje procesów i wątków oraz ich metody zarządzania przez system operacyjny. 	INF1A_W05 	Aktywność na zajęciach, Kolokwium
+W3 	Student zna i rozumie schematy organizacyjne pamięci i pamięci wirtualnej w systemach operacyjnych. 	INF1A_W05 	Aktywność na zajęciach, Kolokwium
+W4 	Student zna i rozumie podstawy wykorzystania segmentów do dynamicznego łączenia modułów, dynamicznego procesu łączenia, struktury procesu realizowanego przez system operacyjny. 	INF1A_W05 	Aktywność na zajęciach, Kolokwium
+Umiejętności – Student potrafi:
+U1 	Student potrafi zaprojektować i wykonać oprogramowanie z wykorzystaniem mechanizmów systemowych. 	INF1A_U07 	Wykonanie ćwiczeń laboratoryjnych
+Treści programowe zapewniające uzyskanie efektów uczenia się dla modułu zajęć
+
+Student ma uporządkowaną wiedzę w zakresie systemów operacyjnych, zasad ich działania, podstawowych problemów związanych z zarządzaniem zasobami systemu komputerowego i algorytmów ich rozwiązywania
+Nakład pracy studenta
+Rodzaje zajęć studenta 	Średnia liczba godzin* przeznaczonych na zrealizowane aktywności
+Wykład 	28
+Ćwiczenia laboratoryjne 	14
+Samodzielne studiowanie tematyki zajęć 	30
+Przygotowanie projektu, prezentacji, pracy pisemnej, sprawozdania 	10
+Egzamin lub kolokwium zaliczeniowe 	2
+Dodatkowe godziny kontaktowe 	5
+Łączny nakład pracy studenta
+Liczba godzin
+89
+Liczba godzin kontaktowych
+Liczba godzin
+42
+
+* godzina (lekcyjna) oznacza 45 minut
+Treści programowe
+Lp. 	Treści programowe 	Efekty uczenia się dla przedmiotu 	Formy prowadzenia zajęć
+1.
+
+1. Podstawowe używane narzędzia programistyczne, kompilacja i śledzenie działania programu ( g++/gcc, make i gdb)
+2. Zarządzanie pamięcią. Biblioteki statyczne i dynamiczne. Przydatne funkcje. Pomiar czasu
+3. Operacje na plikach i katalogach
+4. Tworzenie procesów. Środowisko procesu. Sterowanie procesami.
+5. Komunikacja międzyprocesowa: sygnały
+6. Kolokwium I. Przydział tematów miniprojeków i dyskusja ich zakresów.
+7. Komunikacja międzyprocesowa: Potoki nazwane i nienazwane
+8. Komunikacja międzyprocesowa: Kolejki komunikatów (IPC & Posix)
+9. Komunikacja międzyprocesowa: Semafory i pamięć wspólna (IPC & Posix)
+10. Podstawy obsługi wątków - interfejs programistyczny
+11. Synchronizacja w aplikacjach wielowątkowych
+12. Komunikacja międzyprocesowa: Sokety
+13. Kolokwium II Dyskusja tematów mini projektów
+14. Prezentacje miniprojektów
+	U1 	Ćwiczenia laboratoryjne
+
+Pierwsze dwa wykłady (4 godz.) są ogólnym wprowadzeniem, obejmującym takie zagadnienia jak:
+• rola i zadania systemu operacyjnego,
+• umiejscowienie systemu operacyjnego (w szczególności jądra) w strukturze oprogramowania systemu komputerowego, architektura mikrojądra.
+• klasyfikacja systemów operacyjnych (scentralizowany, sieciowy, rozproszony),
+• ogólna zasada działania systemu operacyjnego (sposób przekazywania sterowania do programu jądra),
+• koncepcja procesu, zasobu i wątku; wątki poziomu użytkownik, wątki jądra, procesy lekkie, modele wielowątkowości.
+
+Kolejny wykłady (2 godz.) dotyczy planowania przydziału procesora, czyli szeregowania zadań:
+• omówienia ogólnej koncepcji planowania.
+• algorytmy planowania z wywłaszczaniem i bez wywłaszczeń oraz kryteria ich oceny.
+• rozwiązania w zakresie szeregowania zadań (procesów lub wątków) we współczesnych systemach operacyjnych, czyli tradycyjnym systemie UNIX, systemie Linux oraz systemie Windows.
+
+
+Kolejne trzy wykłady (6 godz.) poruszają zagadnienia przetwarzania współbieżnego i synchronizacji procesów.
+Początkowo omawia te zagadnienia na poziomie architektury, bez istotnego wsparcia ze strony systemu operacyjnego (poza realizacją koncepcji procesu). W zakresie tego modułu mieszczą się więc takie zagadnienia, jak: pojęcie instrukcji atomowej oraz przeplotu, istota synchronizacji oraz poprawność programów współbieżnych (bezpieczeństwo i żywotność). Pojęcia te ilustrowane są przykładowymi rozwiązaniami problemu wzajemnego wykluczania, obejmującymi algorytm Petersona, algorytm Lamporta oraz rozwiązania opierające się na instrukcjach atomowych test&set i exchange.
+Następnie omówione mechanizmy synchronizacji wspierane przez system operacyjny lub język programowania wysokiego poziomu:
+• semafory — ich klasyfikację i implementację,
+• mechanizmy standardu POSIX — rygle i zmienne warunkowe,
+• monitory i regiony krytyczne.
+Przykłady zastosowania wymienionych mechanizmów pokazano w rozwiązaniach klasycznych problemów synchronizacji: producenta i konsumenta, czytelników i pisarzy, pięciu filozofów, śpiących fryzjerów oraz implementacji semafora uogólnionego przy pomocy semaforów binarnych.
+Na zakończenie omawiane są mechanizmy synchronizacji w środowisku rozproszonym: komunikaty, zdalne wywołania procedury/metody oraz rendezvous.
+
+Kolejny wykład (2 godz.) poświęcono zakleszczeniu — opisaniu samego zjawiska i omówieniu metod przeciwdziałania. Przedstawione zostały: warunki konieczne zakleszczenia w kontekście zasobów odzyskiwalnych i nieodzyskiwalnych, definicja zakleszczenia, opis stanu systemu na potrzeby analizy zakleszczenia — graf przydziału i graf oczekiwania oraz ich specyficzne własności. Jeżeli chodzi o przeciwdziałanie, omówione zostały następujące podejścia: zapobieganie zakleszczeniom, unikanie zakleszczeń (w tym algorytm bankiera), detekcja stanu zakleszczenia i krótko zasady usuwania.
+
+
+W kolejnych dwóch wykładach (4 godz.) omawiane są zagadnienia zarządzania pamięcią. Pierwszy z modułów koncentruje się na zarządzaniu pamięcią operacyjną, obejmującym: podział pamięci, przydział pamięci oraz transformację adresów, w szczególności w systemie pamięci stronicowanej i segmentowanej. Przy tej okazji omawiane jest zjawisko fragmentacji wewnętrznej i zewnętrznej, a także poruszany jest problem ochrony oraz współdzielenia pamięci. Drugi moduł dotyczy realizacji pamięci wirtualnej (stronicowania i segmentacji). Omawiane jest zjawisko błędu strony, jego obsługa i podstawowe problemy z tym związane, tj. problem wymiany stron i problem wznawiania rozkazów. Większa część modułu poświęcona jest algorytmom wymiany — ich klasyfikacji, działaniu, zastosowaniom oraz zagadnieniom implementacyjnym.
+
+
+Kolejny wykład (2 godz) dotyczy wykorzystanie segmentów w czasie wykonywania programów przez system operacyjny oraz postacie programu w czasie przetwarzania przez kompilator/asembler, program łączący, program ładujący, moduły programów.
+
+Następny (2 godz) omawia postać modułów, program łączący, proces łączenia statycznego, program ładujący, proces ładowania programu do pamięci, segment programu.
+
+Modularna postać programu w pamięci, problem łączenia dynamicznego, obiekty wewnętrzne, remanentne, zewnętrzne, sposoby łączenia dynamicznego jest przedmiotem kolejnego wykładu (2 godziny).
+
+W następnym wykładzie (2 godz.) omówione zostaną:
+• Łączenie dynamiczne, środowisko segmentów wykonywania procesu, przykłady dołączania modułów w czasie wykonywania, postać modułu „object” przy łączeniu dynamicznym.
+• System plików. Budowa plików i katalogów. Przydział miejsca na dysku.
+
+W kolejnym wykładzie (2 godz.) omówione zostaną:
+• zarządzanie wejściem-wyjściem.
+• Rola sterowników urządzeń.
+
+Ostatnim wykładem (2 godz) jest wykład podsumowujący.
+	W1, W2, W3, W4 	Wykład
+Informacje rozszerzone
+Metody i techniki kształcenia :
+
+Laboratorium, Wykład, Kształcenie zdalne
+Rodzaj zajęć 	Metody zaliczenia 	Warunki zaliczenia przedmiotu
+Wykład 	Aktywność na zajęciach, Kolokwium
+Ćwiczenia laboratoryjne 	Wykonanie ćwiczeń laboratoryjnych
+Dodatkowy opis
+
+Wykłady z przedmiotu będą prowadzone w sposob zdalny z wykorzystaniem platformy Webex lub MS-Teams. Pozostałe zajęcia będą odbywać się w salach. Dotyczy to także zaliczeń i egzaminów odbywajacych się w sesjach egzaminacyjnych.
+Warunki i sposób zaliczenia poszczególnych form zajęć, w tym zasady zaliczeń poprawkowych, a także warunki dopuszczenia do egzaminu
+
+W przypadku nieobecności na kolokwiach, student jest zobowiązany do zaliczenia odpowiedniego materiału w trakcie kolokwium zaliczeniowego. Warunkiem przystąpienia do egzaminu jest uzyskanie zaliczenia.
+Sposób obliczania oceny końcowej
+
+1. Aby uzyskać pozytywną ocenę końcową niezbędne jest uzyskanie pozytywnej oceny z laboratorium (kolokwium) oraz zaliczenia testu (egzamin) z części wykładowej. 2. Obliczamy średnią arytmetyczną (sr) z ocen z zaliczenia laboratorium i wykładów, uzyskanych we wszystkich terminach. 3. Wyznaczmy ocenę końcową na podstawie zależności: if sr>4.75 then OK:=5.0 else if sr>4.25 then OK:=4.5 else if sr>3.75 then OK:=4.0 else if sr>3.25 then OK:=3.5 else OK:=3
+Sposób i tryb wyrównywania zaległości powstałych wskutek nieobecności studenta na zajęciach
+
+Wyrównywanie zaległości powstałych przez nieobecność studenta na zajęciach: Jeśli student opuści dane zajęcia to może brać udział w zajęciach dla innej grupy. Jeśli jest to niemożliwe, student jest zobowiązany do samodzielnego uzupełnienia wiedzy.
+Wymagania wstępne i dodatkowe
+
+Umiejetność programowania w jezyku C++ w dowolnym systemie.
+
+Zasady udziału w poszczególnych zajęciach, ze wskazaniem, czy obecność studenta na zajęciach jest obowiązkowa
+
+Wykład: Studenci uczestniczą w zajęciach poznając kolejne treści nauczania zgodnie z syllabusem przedmiotu. Studenci winni na bieżąco zadawać pytania i wyjaśniać wątpliwości. Rejestracja audiowizualna wykładu wymaga zgody prowadzącego. Ćwiczenia laboratoryjne: Studenci wykonują ćwiczenia laboratoryjne zgodnie z materiałami udostępnionymi przez prowadzącego. Student jest zobowiązany do przygotowania się w przedmiocie wykonywanego ćwiczenia, co może zostać zweryfikowane kolokwium w formie ustnej lub pisemnej. Zaliczenie zajęć odbywa się na podstawie zaprezentowania rozwiązania postawionego problemu. Zaliczenie modułu jest możliwe po zaliczeniu wszystkich zajęć laboratoryjnych.
+Literatura
+Obowiązkowa
+
+    Abraham Silberschatz, Peter B. Galvin, “Podstawy systemów operacyjnych”, WNT, 2005 (wyd. 6 zmienione), --, A. Silberschatz, P.B. Galvin, G. Gagne. „Operating System Concepts. Eighth Edition”, John Wiley & Sons Inc, 2009
+
+Badania i publikacje
+Publikacje
+
+    1. Kotulski L.: Comments on Implementation of P(s) and V(s) Primitives with the Help of Binary Semaphores. Operating System Review, 1988, vol. 22, no. 2, pp. 53-59. 2. Kotulski L.: About the Semantic Nested Monitor Calls. Sigplan Notice, 1987, vol. 22, no. 4, pp. 80-82. 3. Kotulski L.: Time Dependent Errors Exclusion Method in Monitor Structures. Universitas Iagellonica Acta Scientiarum Litterarumque, Schedae Informaticae, 1987, vol. 3, pp. 39-47. 4. Kotulski L.: KOOS – system wspomagania realizacji specjalizowanych systemów operacyjnych na maszynie Odra 1305. Universitas Iagellonica Acta Scientiarum Litterarumque, Schedae Informaticae, 1985, vol. 1, pp. 61-79. 5. Probabilistyczne wykrywanie anomalii z wykorzystaniem analizy odwołań systemowych — [A probabilistic anomaly detection using analysis of system calls] / Paweł Król, Przemysław MACIOŁEK, Jarosław KOŹLAK // Informatyka Teoretyczna i Stosowana = Computer Science / Politechnika Częstochowska. Instytut Matematyki i Informatyki ; ISSN 1643-2355. — 2006 R. 6 nr 10 s. 243–255. — Bibliogr. s. 25 6. Probabilistic anomaly detection based on system calls analysis — Probabilistyczne rozpoznawanie anomalii bazujące na analizie wywołań systemowych / Przemysław MACIOŁEK, Paweł Król, Jarosław KOŹLAK // Computer Science : rocznik Akademii Górniczo-Hutniczej imienia Stanisława Staszica w Krakowie ; ISSN 1508-2806. — 2007 vol. 8 spec. ed. s. 93–108. — Bibliogr. s. 107–108

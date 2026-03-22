@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "wyklad-bazy-wektorowe-2026"
+version = "0.1.0"
+description = "\"Project for demonstration purposes for the lecture on Vector databases"
+authors = ["Adam <adam.niedzialkowski@agh.edu.pl>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.12,<3.15"
+streamlit = "^1.55.0"
+lancedb = "^0.30.1"
+sentence-transformers = "^5.3.0"
+torch = "^2.10.0"
+torchvision = "^0.25.0"
+torchaudio = "^2.10.0"
+pandas = "^2.2.0"
+faiss-cpu = "^1.13.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
