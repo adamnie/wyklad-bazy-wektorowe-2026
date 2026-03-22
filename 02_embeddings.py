@@ -2,7 +2,7 @@ from sentence_transformers import SentenceTransformer
 
 # https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
 model = SentenceTransformer('all-MiniLM-L6-v2')
-text = "Bazy wektorowe"
+text = "67"
 vector = model.encode(text)
 
 print(f"Text: '{text}'")

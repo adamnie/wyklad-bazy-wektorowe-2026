@@ -41,24 +41,24 @@ def process_files(data_dir="data"):
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
 
-        # Simple chunking by paragraph (or double newline)
-        chunks = [c.strip() for c in content.split('\n\n') if c.strip()]
+        # Embed the entire document without chunking
+        chunk = content.strip()
+        i = 0  # Only one chunk per file
         
-        for i, chunk in enumerate(chunks):
-            # 1. Insert into SQLite (Full-Text Search)
-            cursor.execute('''
-                INSERT INTO documents (filename, chunk_id, text)
-                VALUES (?, ?, ?)
-            ''', (filename, i, chunk))
-            
-            # 2. Prepare for LanceDB (Semantic Search)
-            vector = model.encode(chunk).tolist()
-            data_for_lancedb.append({
-                "vector": vector,
-                "filename": filename,
-                "chunk_id": i,
-                "text": chunk
-            })
+        # 1. Insert into SQLite (Full-Text Search)
+        cursor.execute('''
+            INSERT INTO documents (filename, chunk_id, text)
+            VALUES (?, ?, ?)
+        ''', (filename, i, chunk))
+        
+        # 2. Prepare for LanceDB (Semantic Search)
+        vector = model.encode(chunk).tolist()
+        data_for_lancedb.append({
+            "vector": vector,
+            "filename": filename,
+            "chunk_id": i,
+            "text": chunk
+        })
             
     conn.commit()
     
