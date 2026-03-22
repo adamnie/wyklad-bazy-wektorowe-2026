@@ -1,81 +1,81 @@
 
-Systemy operacyjne
-Karta opisu przedmiotu
-Informacje podstawowe
+Operating Systems
+Course description sheet
+Basic information
 
-Kierunek studiów
-    Informatyka (kierunek wspólny - WI i WEAIiIB)
-Specjalność
+Field of study
+    Computer Science
+Major
     -
-Jednostka organizacyjna
-    Wydział Informatyki
-Poziom kształcenia
-    Studia inżynierskie I stopnia
-Forma studiów
-    Stacjonarne
-Profil studiów
-    Ogólnoakademicki
+Organisational unit
+    Faculty of Computer Science
+Study level
+    First-cycle (engineer) programme
+Form of study
+    Full-time studies
+Profile
+    General academic
 
-Cykl dydaktyczny
+Didactic cycle
     2025/2026
-Kod przedmiotu
+Course code
     WIINFS.Ii8.01051.25
-Języki wykładowe
-    polski
-Obligatoryjność
-    Obowiązkowy
-Blok zajęciowy
-    Przedmioty kierunkowe
-Przedmiot powiązany z badaniami naukowymi
-    Tak
+Lecture languages
+    Polish
+Mandatoriness
+    Obligatory
+Block
+    Core Modules
+Course related to scientific research
+    Yes
 
-Koordynator przedmiotu
+Course coordinator
 Leszek Kotulski
-Prowadzący zajęcia
+Lecturer
 Leszek Kotulski
-Okres
-Semestr 4
+Period
+Semester 4
 
-Forma zaliczenia
-Egzamin
-Forma prowadzenia i godziny zajęć
-Wykład: 28
-Ćwiczenia laboratoryjne: 14
+Method of verification of the learning outcomes
+Exam
+Activities and hours
+Lectures: 28
+Laboratory classes: 14
 
-Liczba punktów ECTS
+Number of ECTS credits
 3
-Cele kształcenia dla przedmiotu
+Goals
 C1 	Zapoznanie studentów z zasadami funkcjonowania systemów operacyjnych oraz metodami ich budowy
-Efekty uczenia się dla przedmiotu
-Kod 	Efekty w zakresie 	Kierunkowe efekty uczenia się 	Metody weryfikacji
-Wiedzy – Student zna i rozumie:
-W1 	Student zna i rozumie podstawowe pojęcia problemów synchronizacji, stosowane mechanizmy synchronizacji, algorytmy zapobiegania zakleszczeniom i unikania. 	INF1A_W05 	Aktywność na zajęciach, Kolokwium
-W2 	Student zna i rozumie strukturę i funkcje procesów i wątków oraz ich metody zarządzania przez system operacyjny. 	INF1A_W05 	Aktywność na zajęciach, Kolokwium
-W3 	Student zna i rozumie schematy organizacyjne pamięci i pamięci wirtualnej w systemach operacyjnych. 	INF1A_W05 	Aktywność na zajęciach, Kolokwium
-W4 	Student zna i rozumie podstawy wykorzystania segmentów do dynamicznego łączenia modułów, dynamicznego procesu łączenia, struktury procesu realizowanego przez system operacyjny. 	INF1A_W05 	Aktywność na zajęciach, Kolokwium
-Umiejętności – Student potrafi:
-U1 	Student potrafi zaprojektować i wykonać oprogramowanie z wykorzystaniem mechanizmów systemowych. 	INF1A_U07 	Wykonanie ćwiczeń laboratoryjnych
-Treści programowe zapewniające uzyskanie efektów uczenia się dla modułu zajęć
+Course's learning outcomes
+Code 	Outcomes in terms of 	Learning outcomes prescribed to a field of study 	Methods of verification
+Knowledge – Student knows and understands:
+W1 	Student zna i rozumie podstawowe pojęcia problemów synchronizacji, stosowane mechanizmy synchronizacji, algorytmy zapobiegania zakleszczeniom i unikania. 	INF1A_W05 	Activity during classes, Test
+W2 	Student zna i rozumie strukturę i funkcje procesów i wątków oraz ich metody zarządzania przez system operacyjny. 	INF1A_W05 	Activity during classes, Test
+W3 	Student zna i rozumie schematy organizacyjne pamięci i pamięci wirtualnej w systemach operacyjnych. 	INF1A_W05 	Activity during classes, Test
+W4 	Student zna i rozumie podstawy wykorzystania segmentów do dynamicznego łączenia modułów, dynamicznego procesu łączenia, struktury procesu realizowanego przez system operacyjny. 	INF1A_W05 	Activity during classes, Test
+Skills – Student can:
+U1 	Student potrafi zaprojektować i wykonać oprogramowanie z wykorzystaniem mechanizmów systemowych. 	INF1A_U07 	Execution of laboratory classes
+Program content ensuring the achievement of the learning outcomes prescribed to the module
 
 Student ma uporządkowaną wiedzę w zakresie systemów operacyjnych, zasad ich działania, podstawowych problemów związanych z zarządzaniem zasobami systemu komputerowego i algorytmów ich rozwiązywania
-Nakład pracy studenta
-Rodzaje zajęć studenta 	Średnia liczba godzin* przeznaczonych na zrealizowane aktywności
-Wykład 	28
-Ćwiczenia laboratoryjne 	14
-Samodzielne studiowanie tematyki zajęć 	30
-Przygotowanie projektu, prezentacji, pracy pisemnej, sprawozdania 	10
-Egzamin lub kolokwium zaliczeniowe 	2
-Dodatkowe godziny kontaktowe 	5
-Łączny nakład pracy studenta
-Liczba godzin
+Student workload
+Activity form 	Average amount of hours* needed to complete each activity form
+Lectures 	28
+Laboratory classes 	14
+Realization of independently performed tasks 	30
+Preparation of project, presentation, essay, report 	10
+Examination or final test/colloquium 	2
+Contact hours 	5
+Student workload
+Hours
 89
-Liczba godzin kontaktowych
-Liczba godzin
+Workload involving teacher
+Hours
 42
 
-* godzina (lekcyjna) oznacza 45 minut
-Treści programowe
-Lp. 	Treści programowe 	Efekty uczenia się dla przedmiotu 	Formy prowadzenia zajęć
+* hour means 45 minutes
+Program content
+No. 	Program content 	Course's learning outcomes 	Activities
 1.
 
 1. Podstawowe używane narzędzia programistyczne, kompilacja i śledzenie działania programu ( g++/gcc, make i gdb)
@@ -92,7 +92,8 @@ Lp. 	Treści programowe 	Efekty uczenia się dla przedmiotu 	Formy prowadzenia z
 12. Komunikacja międzyprocesowa: Sokety
 13. Kolokwium II Dyskusja tematów mini projektów
 14. Prezentacje miniprojektów
-	U1 	Ćwiczenia laboratoryjne
+	U1 	Laboratory classes
+2.
 
 Pierwsze dwa wykłady (4 godz.) są ogólnym wprowadzeniem, obejmującym takie zagadnienia jak:
 • rola i zadania systemu operacyjnego,
@@ -137,39 +138,39 @@ W kolejnym wykładzie (2 godz.) omówione zostaną:
 • Rola sterowników urządzeń.
 
 Ostatnim wykładem (2 godz) jest wykład podsumowujący.
-	W1, W2, W3, W4 	Wykład
-Informacje rozszerzone
-Metody i techniki kształcenia :
+	W1, W2, W3, W4 	Lectures
+Extended information/Additional elements
+Teaching methods and techniques :
 
-Laboratorium, Wykład, Kształcenie zdalne
-Rodzaj zajęć 	Metody zaliczenia 	Warunki zaliczenia przedmiotu
-Wykład 	Aktywność na zajęciach, Kolokwium
-Ćwiczenia laboratoryjne 	Wykonanie ćwiczeń laboratoryjnych
-Dodatkowy opis
+Laboratorium, Lecture, E-learning
+Activities 	Methods of verification 	Credit conditions
+Lectures 	Activity during classes, Test
+Lab. classes 	Execution of laboratory classes
+Additional info
 
 Wykłady z przedmiotu będą prowadzone w sposob zdalny z wykorzystaniem platformy Webex lub MS-Teams. Pozostałe zajęcia będą odbywać się w salach. Dotyczy to także zaliczeń i egzaminów odbywajacych się w sesjach egzaminacyjnych.
-Warunki i sposób zaliczenia poszczególnych form zajęć, w tym zasady zaliczeń poprawkowych, a także warunki dopuszczenia do egzaminu
+Conditions and the manner of completing each form of classes, including the rules of making retakes, as well as the conditions for admission to the exam
 
 W przypadku nieobecności na kolokwiach, student jest zobowiązany do zaliczenia odpowiedniego materiału w trakcie kolokwium zaliczeniowego. Warunkiem przystąpienia do egzaminu jest uzyskanie zaliczenia.
-Sposób obliczania oceny końcowej
+Method of determining the final grade
 
 1. Aby uzyskać pozytywną ocenę końcową niezbędne jest uzyskanie pozytywnej oceny z laboratorium (kolokwium) oraz zaliczenia testu (egzamin) z części wykładowej. 2. Obliczamy średnią arytmetyczną (sr) z ocen z zaliczenia laboratorium i wykładów, uzyskanych we wszystkich terminach. 3. Wyznaczmy ocenę końcową na podstawie zależności: if sr>4.75 then OK:=5.0 else if sr>4.25 then OK:=4.5 else if sr>3.75 then OK:=4.0 else if sr>3.25 then OK:=3.5 else OK:=3
-Sposób i tryb wyrównywania zaległości powstałych wskutek nieobecności studenta na zajęciach
+Manner and mode of making up for the backlog caused by a student justified absence from classes
 
 Wyrównywanie zaległości powstałych przez nieobecność studenta na zajęciach: Jeśli student opuści dane zajęcia to może brać udział w zajęciach dla innej grupy. Jeśli jest to niemożliwe, student jest zobowiązany do samodzielnego uzupełnienia wiedzy.
-Wymagania wstępne i dodatkowe
+Prerequisites and additional requirements
 
 Umiejetność programowania w jezyku C++ w dowolnym systemie.
 
-Zasady udziału w poszczególnych zajęciach, ze wskazaniem, czy obecność studenta na zajęciach jest obowiązkowa
+Rules of participation in given classes, indicating whether student presence at the lecture is obligatory
 
 Wykład: Studenci uczestniczą w zajęciach poznając kolejne treści nauczania zgodnie z syllabusem przedmiotu. Studenci winni na bieżąco zadawać pytania i wyjaśniać wątpliwości. Rejestracja audiowizualna wykładu wymaga zgody prowadzącego. Ćwiczenia laboratoryjne: Studenci wykonują ćwiczenia laboratoryjne zgodnie z materiałami udostępnionymi przez prowadzącego. Student jest zobowiązany do przygotowania się w przedmiocie wykonywanego ćwiczenia, co może zostać zweryfikowane kolokwium w formie ustnej lub pisemnej. Zaliczenie zajęć odbywa się na podstawie zaprezentowania rozwiązania postawionego problemu. Zaliczenie modułu jest możliwe po zaliczeniu wszystkich zajęć laboratoryjnych.
-Literatura
-Obowiązkowa
+Literature
+Obligatory
 
     Abraham Silberschatz, Peter B. Galvin, “Podstawy systemów operacyjnych”, WNT, 2005 (wyd. 6 zmienione), --, A. Silberschatz, P.B. Galvin, G. Gagne. „Operating System Concepts. Eighth Edition”, John Wiley & Sons Inc, 2009
 
-Badania i publikacje
-Publikacje
+Scientific research and publications
+Publications
 
     1. Kotulski L.: Comments on Implementation of P(s) and V(s) Primitives with the Help of Binary Semaphores. Operating System Review, 1988, vol. 22, no. 2, pp. 53-59. 2. Kotulski L.: About the Semantic Nested Monitor Calls. Sigplan Notice, 1987, vol. 22, no. 4, pp. 80-82. 3. Kotulski L.: Time Dependent Errors Exclusion Method in Monitor Structures. Universitas Iagellonica Acta Scientiarum Litterarumque, Schedae Informaticae, 1987, vol. 3, pp. 39-47. 4. Kotulski L.: KOOS – system wspomagania realizacji specjalizowanych systemów operacyjnych na maszynie Odra 1305. Universitas Iagellonica Acta Scientiarum Litterarumque, Schedae Informaticae, 1985, vol. 1, pp. 61-79. 5. Probabilistyczne wykrywanie anomalii z wykorzystaniem analizy odwołań systemowych — [A probabilistic anomaly detection using analysis of system calls] / Paweł Król, Przemysław MACIOŁEK, Jarosław KOŹLAK // Informatyka Teoretyczna i Stosowana = Computer Science / Politechnika Częstochowska. Instytut Matematyki i Informatyki ; ISSN 1643-2355. — 2006 R. 6 nr 10 s. 243–255. — Bibliogr. s. 25 6. Probabilistic anomaly detection based on system calls analysis — Probabilistyczne rozpoznawanie anomalii bazujące na analizie wywołań systemowych / Przemysław MACIOŁEK, Paweł Król, Jarosław KOŹLAK // Computer Science : rocznik Akademii Górniczo-Hutniczej imienia Stanisława Staszica w Krakowie ; ISSN 1508-2806. — 2007 vol. 8 spec. ed. s. 93–108. — Bibliogr. s. 107–108
