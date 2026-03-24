@@ -6,7 +6,7 @@ dim = 384
 
 np.random.seed(42)
 
-num_vectors = 100000
+num_vectors = 1_000_000
 vectors = np.random.randn(num_vectors, dim).astype(np.float32)
 
 query = np.random.randn(1, dim).astype(np.float32)

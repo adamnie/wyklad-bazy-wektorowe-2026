@@ -1,176 +1,151 @@
-
 Operating Systems
-Course description sheet
-Basic information
+Course Description Sheet
+Basic Information
 
-Field of study
-    Computer Science
-Major
-    -
-Organisational unit
-    Faculty of Computer Science
-Study level
-    First-cycle (engineer) programme
-Form of study
-    Full-time studies
-Profile
-    General academic
+Degree program
+Computer Science (joint degree program – Faculty of Computer Science and Faculty of Electrical Engineering, Automatics, Computer Science and Biomedical Engineering)
 
-Didactic cycle
-    2025/2026
+Specialization
+–
+
+Organizational unit
+Faculty of Computer Science
+
+Level of study
+First-cycle engineering studies
+
+Mode of study
+Full-time
+
+Study profile
+General academic
+
+Academic year
+2025/2026
+
 Course code
-    WIINFS.Ii8.01051.25
-Lecture languages
-    Polish
-Mandatoriness
-    Obligatory
-Block
-    Core Modules
+WIINFS.Ii8.01051.25
+
+Language of instruction
+Polish
+
+Course status
+Mandatory
+
+Course block
+Major-specific courses
+
 Course related to scientific research
-    Yes
+Yes
 
 Course coordinator
 Leszek Kotulski
-Lecturer
+
+Instructor
 Leszek Kotulski
+
 Period
 Semester 4
 
-Method of verification of the learning outcomes
+Assessment form
 Exam
-Activities and hours
-Lectures: 28
+
+Teaching format and contact hours
+Lecture: 28
 Laboratory classes: 14
 
-Number of ECTS credits
+ECTS credits
 3
-Goals
-C1 	Zapoznanie studentów z zasadami funkcjonowania systemów operacyjnych oraz metodami ich budowy
-Course's learning outcomes
-Code 	Outcomes in terms of 	Learning outcomes prescribed to a field of study 	Methods of verification
-Knowledge – Student knows and understands:
-W1 	Student zna i rozumie podstawowe pojęcia problemów synchronizacji, stosowane mechanizmy synchronizacji, algorytmy zapobiegania zakleszczeniom i unikania. 	INF1A_W05 	Activity during classes, Test
-W2 	Student zna i rozumie strukturę i funkcje procesów i wątków oraz ich metody zarządzania przez system operacyjny. 	INF1A_W05 	Activity during classes, Test
-W3 	Student zna i rozumie schematy organizacyjne pamięci i pamięci wirtualnej w systemach operacyjnych. 	INF1A_W05 	Activity during classes, Test
-W4 	Student zna i rozumie podstawy wykorzystania segmentów do dynamicznego łączenia modułów, dynamicznego procesu łączenia, struktury procesu realizowanego przez system operacyjny. 	INF1A_W05 	Activity during classes, Test
-Skills – Student can:
-U1 	Student potrafi zaprojektować i wykonać oprogramowanie z wykorzystaniem mechanizmów systemowych. 	INF1A_U07 	Execution of laboratory classes
-Program content ensuring the achievement of the learning outcomes prescribed to the module
 
-Student ma uporządkowaną wiedzę w zakresie systemów operacyjnych, zasad ich działania, podstawowych problemów związanych z zarządzaniem zasobami systemu komputerowego i algorytmów ich rozwiązywania
+Course learning objectives
+
+C1
+To familiarize students with the principles of operating system functioning and methods of their construction.
+
+Learning outcomes for the course
+Code	Learning outcomes	Program learning outcomes	Assessment methods
+Knowledge – the student knows and understands:			
+W1	The student knows and understands the basic concepts of synchronization problems, synchronization mechanisms used, and deadlock prevention and avoidance algorithms.	INF1A_W05	Class activity, test
+W2	The student knows and understands the structure and functions of processes and threads, as well as the methods used by the operating system to manage them.	INF1A_W05	Class activity, test
+W3	The student knows and understands memory organization schemes and virtual memory in operating systems.	INF1A_W05	Class activity, test
+W4	The student knows and understands the basics of using segments for dynamic linking of modules, the dynamic linking process, and the process structure implemented by the operating system.	INF1A_W05	Class activity, test
+Skills – the student is able to:			
+U1	The student is able to design and implement software using system mechanisms.	INF1A_U07	Completion of laboratory exercises
+Curriculum content ensuring achievement of the learning outcomes for the course module
+
+The student has well-structured knowledge of operating systems, their principles of operation, the basic problems related to managing computer system resources, and the algorithms used to solve them.
+
 Student workload
-Activity form 	Average amount of hours* needed to complete each activity form
-Lectures 	28
-Laboratory classes 	14
-Realization of independently performed tasks 	30
-Preparation of project, presentation, essay, report 	10
-Examination or final test/colloquium 	2
-Contact hours 	5
-Student workload
-Hours
-89
-Workload involving teacher
-Hours
-42
+Student activities	Average number of hours devoted to completed activities
+Lecture	28
+Laboratory classes	14
+Independent study of course topics	30
+Preparation of project, presentation, written work, report	10
+Exam or final test	2
+Additional contact hours	5
 
-* hour means 45 minutes
-Program content
-No. 	Program content 	Course's learning outcomes 	Activities
-1.
+Total student workload
+89 hours
 
-1. Podstawowe używane narzędzia programistyczne, kompilacja i śledzenie działania programu ( g++/gcc, make i gdb)
-2. Zarządzanie pamięcią. Biblioteki statyczne i dynamiczne. Przydatne funkcje. Pomiar czasu
-3. Operacje na plikach i katalogach
-4. Tworzenie procesów. Środowisko procesu. Sterowanie procesami.
-5. Komunikacja międzyprocesowa: sygnały
-6. Kolokwium I. Przydział tematów miniprojeków i dyskusja ich zakresów.
-7. Komunikacja międzyprocesowa: Potoki nazwane i nienazwane
-8. Komunikacja międzyprocesowa: Kolejki komunikatów (IPC & Posix)
-9. Komunikacja międzyprocesowa: Semafory i pamięć wspólna (IPC & Posix)
-10. Podstawy obsługi wątków - interfejs programistyczny
-11. Synchronizacja w aplikacjach wielowątkowych
-12. Komunikacja międzyprocesowa: Sokety
-13. Kolokwium II Dyskusja tematów mini projektów
-14. Prezentacje miniprojektów
-	U1 	Laboratory classes
-2.
+Number of contact hours
+42 hours
 
-Pierwsze dwa wykłady (4 godz.) są ogólnym wprowadzeniem, obejmującym takie zagadnienia jak:
-• rola i zadania systemu operacyjnego,
-• umiejscowienie systemu operacyjnego (w szczególności jądra) w strukturze oprogramowania systemu komputerowego, architektura mikrojądra.
-• klasyfikacja systemów operacyjnych (scentralizowany, sieciowy, rozproszony),
-• ogólna zasada działania systemu operacyjnego (sposób przekazywania sterowania do programu jądra),
-• koncepcja procesu, zasobu i wątku; wątki poziomu użytkownik, wątki jądra, procesy lekkie, modele wielowątkowości.
+* one class hour means 45 minutes
 
-Kolejny wykłady (2 godz.) dotyczy planowania przydziału procesora, czyli szeregowania zadań:
-• omówienia ogólnej koncepcji planowania.
-• algorytmy planowania z wywłaszczaniem i bez wywłaszczeń oraz kryteria ich oceny.
-• rozwiązania w zakresie szeregowania zadań (procesów lub wątków) we współczesnych systemach operacyjnych, czyli tradycyjnym systemie UNIX, systemie Linux oraz systemie Windows.
+Course content
+No.	Course content	Course learning outcomes	Teaching forms
+1.	1. Basic programming tools, compilation and debugging of programs (g++/gcc, make and gdb) 2. Memory management. Static and dynamic libraries. Useful functions. Time measurement 3. File and directory operations 4. Process creation. Process environment. Process control 5. Inter-process communication: signals 6. Test I. Assignment of mini-project topics and discussion of their scope 7. Inter-process communication: named and unnamed pipes 8. Inter-process communication: message queues (IPC & POSIX) 9. Inter-process communication: semaphores and shared memory (IPC & POSIX) 10. Basics of thread handling – programming interface 11. Synchronization in multithreaded applications 12. Inter-process communication: sockets 13. Test II. Discussion of mini-project topics 14. Mini-project presentations	U1	Laboratory classes
+2.	The first two lectures (4 hours) provide a general introduction covering the following topics: • the role and tasks of the operating system, • the place of the operating system (in particular the kernel) in the software structure of a computer system, microkernel architecture, • classification of operating systems (centralized, networked, distributed), • general principle of operating system operation (the way control is passed to the kernel program), • the concepts of process, resource, and thread; user-level threads, kernel threads, lightweight processes, multithreading models. The next lecture (2 hours) concerns processor scheduling, i.e. task scheduling: • discussion of the general concept of scheduling, • preemptive and non-preemptive scheduling algorithms and criteria for their evaluation, • scheduling solutions in modern operating systems, namely traditional UNIX, Linux, and Windows. The next three lectures (6 hours) deal with concurrent processing and process synchronization. Initially, these issues are discussed at the architectural level, without significant support from the operating system (apart from implementing the process concept). This module therefore includes such topics as: the concept of atomic instruction and interleaving, the essence of synchronization, and correctness of concurrent programs (safety and liveness). These concepts are illustrated with sample solutions to the mutual exclusion problem, including Peterson’s algorithm, Lamport’s algorithm, and solutions based on the atomic instructions test&set and exchange. Then synchronization mechanisms supported by the operating system or a high-level programming language are discussed: • semaphores — their classification and implementation, • POSIX mechanisms — mutexes and condition variables, • monitors and critical regions. Examples of the use of these mechanisms are shown in solutions to classic synchronization problems: producer-consumer, readers-writers, dining philosophers, sleeping barbers, and the implementation of a generalized semaphore using binary semaphores. Finally, synchronization mechanisms in distributed environments are discussed: messages, remote procedure/method invocation, and rendezvous. The next lecture (2 hours) is devoted to deadlock — describing the phenomenon itself and discussing methods of counteracting it. The following are presented: the necessary conditions for deadlock in the context of preemptable and non-preemptable resources, the definition of deadlock, description of the system state for deadlock analysis — allocation graph and wait-for graph and their specific properties. As for prevention, the following approaches are discussed: deadlock prevention, deadlock avoidance (including the banker’s algorithm), deadlock detection, and briefly, recovery principles. In the following two lectures (4 hours), memory management issues are discussed. The first module focuses on main memory management, including: memory partitioning, memory allocation, and address translation, especially in paged and segmented memory systems. On this occasion, the phenomena of internal and external fragmentation are discussed, as well as the issues of memory protection and sharing. The second module concerns the implementation of virtual memory (paging and segmentation). Page faults, their handling, and the basic problems associated with them are discussed, i.e. page replacement and instruction restart. Most of the module is devoted to replacement algorithms — their classification, operation, applications, and implementation issues. The next lecture (2 hours) concerns the use of segments during program execution by the operating system, as well as the forms of a program during processing by the compiler/assembler, linker, loader, and program modules. The following lecture (2 hours) discusses module structure, the linker, the static linking process, the loader, the process of loading a program into memory, and the program segment. The modular form of a program in memory, the problem of dynamic linking, internal, resident, and external objects, and methods of dynamic linking are the subject of the next lecture (2 hours). The following lecture (2 hours) covers: • dynamic linking, the execution segment environment of a process, examples of loading modules during execution, the form of the object module in dynamic linking, • file system, structure of files and directories, allocation of disk space. The next lecture (2 hours) covers: • input/output management, • the role of device drivers. The final lecture (2 hours) is a summary lecture.	W1, W2, W3, W4	Lecture
+Additional information
+Teaching methods and techniques
 
+Laboratory, lecture, distance learning
 
-Kolejne trzy wykłady (6 godz.) poruszają zagadnienia przetwarzania współbieżnego i synchronizacji procesów.
-Początkowo omawia te zagadnienia na poziomie architektury, bez istotnego wsparcia ze strony systemu operacyjnego (poza realizacją koncepcji procesu). W zakresie tego modułu mieszczą się więc takie zagadnienia, jak: pojęcie instrukcji atomowej oraz przeplotu, istota synchronizacji oraz poprawność programów współbieżnych (bezpieczeństwo i żywotność). Pojęcia te ilustrowane są przykładowymi rozwiązaniami problemu wzajemnego wykluczania, obejmującymi algorytm Petersona, algorytm Lamporta oraz rozwiązania opierające się na instrukcjach atomowych test&set i exchange.
-Następnie omówione mechanizmy synchronizacji wspierane przez system operacyjny lub język programowania wysokiego poziomu:
-• semafory — ich klasyfikację i implementację,
-• mechanizmy standardu POSIX — rygle i zmienne warunkowe,
-• monitory i regiony krytyczne.
-Przykłady zastosowania wymienionych mechanizmów pokazano w rozwiązaniach klasycznych problemów synchronizacji: producenta i konsumenta, czytelników i pisarzy, pięciu filozofów, śpiących fryzjerów oraz implementacji semafora uogólnionego przy pomocy semaforów binarnych.
-Na zakończenie omawiane są mechanizmy synchronizacji w środowisku rozproszonym: komunikaty, zdalne wywołania procedury/metody oraz rendezvous.
+Type of classes	Assessment methods	Course completion requirements
+Lecture	Class activity, test	
+Laboratory classes	Completion of laboratory exercises	
+Additional description
 
-Kolejny wykład (2 godz.) poświęcono zakleszczeniu — opisaniu samego zjawiska i omówieniu metod przeciwdziałania. Przedstawione zostały: warunki konieczne zakleszczenia w kontekście zasobów odzyskiwalnych i nieodzyskiwalnych, definicja zakleszczenia, opis stanu systemu na potrzeby analizy zakleszczenia — graf przydziału i graf oczekiwania oraz ich specyficzne własności. Jeżeli chodzi o przeciwdziałanie, omówione zostały następujące podejścia: zapobieganie zakleszczeniom, unikanie zakleszczeń (w tym algorytm bankiera), detekcja stanu zakleszczenia i krótko zasady usuwania.
+Lectures for this course will be conducted remotely using the Webex or MS Teams platform. Other classes will take place in classrooms. This also applies to assessments and exams held during examination sessions.
 
+Conditions and method of passing individual class forms, including retake rules, as well as conditions for admission to the exam
 
-W kolejnych dwóch wykładach (4 godz.) omawiane są zagadnienia zarządzania pamięcią. Pierwszy z modułów koncentruje się na zarządzaniu pamięcią operacyjną, obejmującym: podział pamięci, przydział pamięci oraz transformację adresów, w szczególności w systemie pamięci stronicowanej i segmentowanej. Przy tej okazji omawiane jest zjawisko fragmentacji wewnętrznej i zewnętrznej, a także poruszany jest problem ochrony oraz współdzielenia pamięci. Drugi moduł dotyczy realizacji pamięci wirtualnej (stronicowania i segmentacji). Omawiane jest zjawisko błędu strony, jego obsługa i podstawowe problemy z tym związane, tj. problem wymiany stron i problem wznawiania rozkazów. Większa część modułu poświęcona jest algorytmom wymiany — ich klasyfikacji, działaniu, zastosowaniom oraz zagadnieniom implementacyjnym.
+In the event of absence from tests, the student is required to complete the relevant material during the final assessment test. A condition for taking the exam is obtaining course credit.
 
+Method of calculating the final grade
+To obtain a passing final grade, it is necessary to receive a passing grade from the laboratory component (test) and pass the test/exam from the lecture component.
+The arithmetic mean (avg) is calculated from the grades obtained for the laboratory and lecture components, from all sittings.
+The final grade is determined according to the following rule:
+if avg > 4.75 then final grade = 5.0
+else if avg > 4.25 then final grade = 4.5
+else if avg > 3.75 then final grade = 4.0
+else if avg > 3.25 then final grade = 3.5
+else final grade = 3.0
+Method and procedure for making up for deficiencies resulting from student absence from classes
 
-Kolejny wykład (2 godz) dotyczy wykorzystanie segmentów w czasie wykonywania programów przez system operacyjny oraz postacie programu w czasie przetwarzania przez kompilator/asembler, program łączący, program ładujący, moduły programów.
+Making up for deficiencies resulting from student absence from classes: if a student misses a given class, they may participate in classes with another group. If this is impossible, the student is required to independently make up the material.
 
-Następny (2 godz) omawia postać modułów, program łączący, proces łączenia statycznego, program ładujący, proces ładowania programu do pamięci, segment programu.
+Initial and additional requirements
 
-Modularna postać programu w pamięci, problem łączenia dynamicznego, obiekty wewnętrzne, remanentne, zewnętrzne, sposoby łączenia dynamicznego jest przedmiotem kolejnego wykładu (2 godziny).
+Ability to program in C++ in any system.
 
-W następnym wykładzie (2 godz.) omówione zostaną:
-• Łączenie dynamiczne, środowisko segmentów wykonywania procesu, przykłady dołączania modułów w czasie wykonywania, postać modułu „object” przy łączeniu dynamicznym.
-• System plików. Budowa plików i katalogów. Przydział miejsca na dysku.
+Rules for participation in individual classes, including whether attendance is compulsory
 
-W kolejnym wykładzie (2 godz.) omówione zostaną:
-• zarządzanie wejściem-wyjściem.
-• Rola sterowników urządzeń.
+Lecture: Students participate in classes, learning subsequent course content in accordance with the course syllabus. Students should ask questions and clarify doubts on an ongoing basis. Audio-visual recording of the lecture requires the instructor’s consent.
 
-Ostatnim wykładem (2 godz) jest wykład podsumowujący.
-	W1, W2, W3, W4 	Lectures
-Extended information/Additional elements
-Teaching methods and techniques :
+Laboratory classes: Students complete laboratory exercises in accordance with materials provided by the instructor. The student is required to prepare for the exercise being performed, which may be verified by an oral or written test. Passing the class is based on presenting a solution to the assigned problem. Passing the module is possible only after completing all laboratory classes.
 
-Laboratorium, Lecture, E-learning
-Activities 	Methods of verification 	Credit conditions
-Lectures 	Activity during classes, Test
-Lab. classes 	Execution of laboratory classes
-Additional info
-
-Wykłady z przedmiotu będą prowadzone w sposob zdalny z wykorzystaniem platformy Webex lub MS-Teams. Pozostałe zajęcia będą odbywać się w salach. Dotyczy to także zaliczeń i egzaminów odbywajacych się w sesjach egzaminacyjnych.
-Conditions and the manner of completing each form of classes, including the rules of making retakes, as well as the conditions for admission to the exam
-
-W przypadku nieobecności na kolokwiach, student jest zobowiązany do zaliczenia odpowiedniego materiału w trakcie kolokwium zaliczeniowego. Warunkiem przystąpienia do egzaminu jest uzyskanie zaliczenia.
-Method of determining the final grade
-
-1. Aby uzyskać pozytywną ocenę końcową niezbędne jest uzyskanie pozytywnej oceny z laboratorium (kolokwium) oraz zaliczenia testu (egzamin) z części wykładowej. 2. Obliczamy średnią arytmetyczną (sr) z ocen z zaliczenia laboratorium i wykładów, uzyskanych we wszystkich terminach. 3. Wyznaczmy ocenę końcową na podstawie zależności: if sr>4.75 then OK:=5.0 else if sr>4.25 then OK:=4.5 else if sr>3.75 then OK:=4.0 else if sr>3.25 then OK:=3.5 else OK:=3
-Manner and mode of making up for the backlog caused by a student justified absence from classes
-
-Wyrównywanie zaległości powstałych przez nieobecność studenta na zajęciach: Jeśli student opuści dane zajęcia to może brać udział w zajęciach dla innej grupy. Jeśli jest to niemożliwe, student jest zobowiązany do samodzielnego uzupełnienia wiedzy.
-Prerequisites and additional requirements
-
-Umiejetność programowania w jezyku C++ w dowolnym systemie.
-
-Rules of participation in given classes, indicating whether student presence at the lecture is obligatory
-
-Wykład: Studenci uczestniczą w zajęciach poznając kolejne treści nauczania zgodnie z syllabusem przedmiotu. Studenci winni na bieżąco zadawać pytania i wyjaśniać wątpliwości. Rejestracja audiowizualna wykładu wymaga zgody prowadzącego. Ćwiczenia laboratoryjne: Studenci wykonują ćwiczenia laboratoryjne zgodnie z materiałami udostępnionymi przez prowadzącego. Student jest zobowiązany do przygotowania się w przedmiocie wykonywanego ćwiczenia, co może zostać zweryfikowane kolokwium w formie ustnej lub pisemnej. Zaliczenie zajęć odbywa się na podstawie zaprezentowania rozwiązania postawionego problemu. Zaliczenie modułu jest możliwe po zaliczeniu wszystkich zajęć laboratoryjnych.
 Literature
-Obligatory
+Required
 
-    Abraham Silberschatz, Peter B. Galvin, “Podstawy systemów operacyjnych”, WNT, 2005 (wyd. 6 zmienione), --, A. Silberschatz, P.B. Galvin, G. Gagne. „Operating System Concepts. Eighth Edition”, John Wiley & Sons Inc, 2009
+Abraham Silberschatz, Peter B. Galvin, Podstawy systemów operacyjnych, WNT, 2005 (6th revised edition);
+A. Silberschatz, P.B. Galvin, G. Gagne, Operating System Concepts. Eighth Edition, John Wiley & Sons Inc, 2009.
 
-Scientific research and publications
+Research and publications
 Publications
-
-    1. Kotulski L.: Comments on Implementation of P(s) and V(s) Primitives with the Help of Binary Semaphores. Operating System Review, 1988, vol. 22, no. 2, pp. 53-59. 2. Kotulski L.: About the Semantic Nested Monitor Calls. Sigplan Notice, 1987, vol. 22, no. 4, pp. 80-82. 3. Kotulski L.: Time Dependent Errors Exclusion Method in Monitor Structures. Universitas Iagellonica Acta Scientiarum Litterarumque, Schedae Informaticae, 1987, vol. 3, pp. 39-47. 4. Kotulski L.: KOOS – system wspomagania realizacji specjalizowanych systemów operacyjnych na maszynie Odra 1305. Universitas Iagellonica Acta Scientiarum Litterarumque, Schedae Informaticae, 1985, vol. 1, pp. 61-79. 5. Probabilistyczne wykrywanie anomalii z wykorzystaniem analizy odwołań systemowych — [A probabilistic anomaly detection using analysis of system calls] / Paweł Król, Przemysław MACIOŁEK, Jarosław KOŹLAK // Informatyka Teoretyczna i Stosowana = Computer Science / Politechnika Częstochowska. Instytut Matematyki i Informatyki ; ISSN 1643-2355. — 2006 R. 6 nr 10 s. 243–255. — Bibliogr. s. 25 6. Probabilistic anomaly detection based on system calls analysis — Probabilistyczne rozpoznawanie anomalii bazujące na analizie wywołań systemowych / Przemysław MACIOŁEK, Paweł Król, Jarosław KOŹLAK // Computer Science : rocznik Akademii Górniczo-Hutniczej imienia Stanisława Staszica w Krakowie ; ISSN 1508-2806. — 2007 vol. 8 spec. ed. s. 93–108. — Bibliogr. s. 107–108
+Kotulski L.: Comments on Implementation of P(s) and V(s) Primitives with the Help of Binary Semaphores. Operating System Review, 1988, vol. 22, no. 2, pp. 53–59.
+Kotulski L.: About the Semantic Nested Monitor Calls. Sigplan Notice, 1987, vol. 22, no. 4, pp. 80–82.
+Kotulski L.: Time Dependent Errors Exclusion Method in Monitor Structures. Universitas Iagellonica Acta Scientiarum Litterarumque, Schedae Informaticae, 1987, vol. 3, pp. 39–47.
+Kotulski L.: KOOS – a support system for the implementation of specialized operating systems on the Odra 1305 machine. Universitas Iagellonica Acta Scientiarum Litterarumque, Schedae Informaticae, 1985, vol. 1, pp. 61–79.
+Probabilistic anomaly detection using analysis of system calls / Paweł Król, Przemysław Maciołek, Jarosław Koźlak // Informatyka Teoretyczna i Stosowana = Computer Science / Częstochowa University of Technology, Institute of Mathematics and Computer Science; ISSN 1643-2355. — 2006, vol. 6, no. 10, pp. 243–255.
+Probabilistic anomaly detection based on system calls analysis — Probabilistyczne rozpoznawanie anomalii bazujące na analizie wywołań systemowych / Przemysław Maciołek, Paweł Król, Jarosław Koźlak // Computer Science: Yearbook of the AGH University of Science and Technology named after Stanisław Staszic in Kraków; ISSN 1508-2806. — 2007, vol. 8, special edition, pp. 93–108.

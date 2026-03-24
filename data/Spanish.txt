@@ -1,274 +1,323 @@
+Spanish Language B-2 – compulsory course, 135 hours – semester 1/3
+Course description card
 
-Język hiszpański B-2 – kurs obowiązkowy 135 godzin - semestr 1/3
-Karta opisu przedmiotu
-Informacje podstawowe
+Basic information
 
-Kierunek studiów
-    Informatyka (kierunek wspólny - WI i WEAIiIB)
-Specjalność
-    -
-Jednostka organizacyjna
-    Wydział Informatyki
-Poziom kształcenia
-    Studia inżynierskie I stopnia
-Forma studiów
-    Stacjonarne
-Profil studiów
-    Ogólnoakademicki
+Field of study
+Computer Science (joint programme – WI and WEAIiIB)
 
-Cykl dydaktyczny
-    2025/2026
-Kod przedmiotu
-    WIINFS.IiE.02182.25
-Języki wykładowe
-    polski
-Obligatoryjność
-    Do wyboru
-Blok zajęciowy
-    Języki obce (lektorat)
-Przedmiot powiązany z badaniami naukowymi
-    Nie
+Specialization
+–
 
-Koordynator przedmiotu
-- Studium Języków Obcych
-Prowadzący zajęcia
-- Studium Języków Obcych
-Okres
-Semestr 2
+Organizational unit
+Faculty of Computer Science
 
-Forma zaliczenia
-Zaliczenie
-Forma prowadzenia i godziny zajęć
-Lektorat: 45
+Level of study
+First-cycle engineering studies
 
-Liczba punktów ECTS
+Mode of study
+Full-time
+
+Study profile
+General academic
+
+Academic year
+2025/2026
+
+Course code
+WIINFS.IiE.02182.25
+
+Language of instruction
+Polish
+
+Course status
+Elective
+
+Course block
+Foreign Languages (language classes)
+
+Course related to scientific research
+No
+
+Course coordinator
+– Foreign Language Centre
+
+Instructors
+– Foreign Language Centre
+
+Period
+
+Semester 2
+
+Assessment form
+Pass
+
+Class format and hours
+Language classes: 45
+
+ECTS credits
 0
-Okres
-Semestr 3
 
-Forma zaliczenia
-Zaliczenie
-Forma prowadzenia i godziny zajęć
-Lektorat: 45
+Period
 
-Liczba punktów ECTS
+Semester 3
+
+Assessment form
+Pass
+
+Class format and hours
+Language classes: 45
+
+ECTS credits
 0
-Okres
-Semestr 4
 
-Forma zaliczenia
-Egzamin
-Forma prowadzenia i godziny zajęć
-Lektorat: 45
+Period
 
-Liczba punktów ECTS
+Semester 4
+
+Assessment form
+Exam
+
+Class format and hours
+Language classes: 45
+
+ECTS credits
 5
-Efekty uczenia się dla przedmiotu
-Kod 	Efekty w zakresie 	Kierunkowe efekty uczenia się 	Metody weryfikacji
-Umiejętności – Student potrafi:
-U1 	Potrafi napisać zrozumiały tekst informacyjny i argumentacyjny o tematyce ogólnej i branżowej, prowadzić korespondencję typową dla środowiska pracy oraz korzystać samodzielnie z materiałów dydaktycznych. 	INF1A_U02 	Wykonanie ćwiczeń, Egzamin, Wypracowania pisane na zajęciach
-U2 	Potrafi przedstawiać w sposób przejrzysty swoje wnioski i opinie dotyczące tematów ogólnych, akademickich i zawodowych w formie pisemnej i ustnej. 	INF1A_U02 	Aktywność na zajęciach, Udział w dyskusji, Wypracowania pisane na zajęciach
-U3 	Rozumie dłuższe, nawet skomplikowane wypowiedzi pisemne i ustne np. wykłady i prezentacje pod warunkiem, że dotyczą kwestii branżowych i spraw bieżących oraz potrafi interpretować uzyskane wiadomości. 	INF1A_U02 	Aktywność na zajęciach, Udział w dyskusji, Wykonanie ćwiczeń, Kolokwium, Egzamin, Wynik testu zaliczeniowego
-U4 	Potrafi wykorzystywać konstrukcje gramatyczne, frazeologię i słownictwo pozwalające na zrozumienie tekstów o charakterze ogólnym, opisujących współczesne zjawiska ekonomiczno-społeczne, o charakterze akademickim i branżowym oraz pozwalające na dość płynne i spontaniczne porozumiewanie się w środowisku akademickim i zawodowym. 	INF1A_U02 	Aktywność na zajęciach, Udział w dyskusji, Wykonanie ćwiczeń, Kolokwium, Egzamin, Wynik testu zaliczeniowego
-U5 	Potrafi przygotować prezentację ustną na tematy akademickie i branżowe oraz dość płynnie i spontanicznie brać udział w dyskusjach, również w środowisku zawodowym. 	INF1A_U02 	Aktywność na zajęciach, Udział w dyskusji, Prezentacja
-Treści programowe zapewniające uzyskanie efektów uczenia się dla modułu zajęć
-Język hiszpański B-2 – kurs obowiązkowy 135 godzin - semestr 1/3
-Nakład pracy studenta
-Semestr 2
-Rodzaje zajęć studenta 	Średnia liczba godzin* przeznaczonych na zrealizowane aktywności
-Lektorat 	45
-Łączny nakład pracy studenta
-Liczba godzin
-45
-Liczba godzin kontaktowych
-Liczba godzin
-45
 
-* godzina (lekcyjna) oznacza 45 minut
-Semestr 3
-Rodzaje zajęć studenta 	Średnia liczba godzin* przeznaczonych na zrealizowane aktywności
-Lektorat 	45
-Łączny nakład pracy studenta
-Liczba godzin
-45
-Liczba godzin kontaktowych
-Liczba godzin
-45
+Learning outcomes for the course
+Code	Learning outcomes	Programme learning outcomes	Verification methods
+Skills – The student is able to:			
+U1	Write a clear informative and argumentative text on general and professional topics, conduct correspondence typical of the workplace, and use teaching materials independently.	INF1A_U02	Completing exercises, Exam, Written assignments completed in class
+U2	Present their conclusions and opinions on general, academic, and professional topics clearly in written and spoken form.	INF1A_U02	Class participation, Participation in discussion, Written assignments completed in class
+U3	Understand longer, even complex, written and spoken statements, e.g. lectures and presentations, provided they concern professional issues and current affairs, and interpret the information obtained.	INF1A_U02	Class participation, Participation in discussion, Completing exercises, Midterm test, Exam, Final test result
+U4	Use grammatical structures, phraseology, and vocabulary that allow understanding of texts of a general nature, describing contemporary socio-economic phenomena, as well as academic and professional texts, and enable fairly fluent and spontaneous communication in academic and professional environments.	INF1A_U02	Class participation, Participation in discussion, Completing exercises, Midterm test, Exam, Final test result
+U5	Prepare an oral presentation on academic and professional topics and participate fairly fluently and spontaneously in discussions, also in a professional environment.	INF1A_U02	Class participation, Participation in discussion, Presentation
+Course content ensuring achievement of the learning outcomes for the module
 
-* godzina (lekcyjna) oznacza 45 minut
-Semestr 4
-Rodzaje zajęć studenta 	Średnia liczba godzin* przeznaczonych na zrealizowane aktywności
-Lektorat 	45
-Przygotowanie do zajęć 	8
-Samodzielne studiowanie tematyki zajęć 	5
-Egzamin lub kolokwium zaliczeniowe 	2
-Łączny nakład pracy studenta
-Liczba godzin
-60
-Liczba godzin kontaktowych
-Liczba godzin
-45
+Spanish Language B-2 – compulsory course, 135 hours – semester 1/3
 
-* godzina (lekcyjna) oznacza 45 minut
-Treści programowe
-Lp. 	Treści programowe 	Efekty uczenia się dla przedmiotu 	Formy prowadzenia zajęć
-1.
+Student workload
+Semester 2
+Types of student activity	Average number of hours* devoted to completed activities
+Language classes	45
 
-Język hiszpański B-2 – kurs obowiązkowy 135 godzin. Zajęcia w ramach modułu prowadzone są w formie ćwiczeń (135 godzin).
+Total student workload
+Number of hours: 45
 
-ZAGADNIENIA GRAMATYCZNE
+Number of contact hours
+Number of hours: 45
 
-Rzeczownik
-• Rzeczowniki odsłowne
-• Rzeczowniki pochodzące od przymiotników
+* one class hour means 45 minutes
 
-Zaimek osobowy: funkcje, pomijanie, szyk, forma
-• Jako podmiot w celu osiągnięcia jednoznaczności, podkreślenia, wyrażenia opozycji
-• Jako OD; dopuszczone formy; stosowanie w przypadku, kiedy OD poprzedza orzeczenie
-• Jako OI; stosowanie mimo obecności rzeczownika, duplikacja w konstrukcjach wartościujących
-• z przyimkiem (entre, excepto, salvo, incluso, hasta segun+ pron.pers. sujeto)
-• szyk i forma OI+OD
+Semester 3
+Types of student activity	Average number of hours* devoted to completed activities
+Language classes	45
 
-Zaimek zwrotny: funkcje
-• zastosowanie w wypowiedzeniach bezosobowych; znaczenie wzajemności; modyfikacja znaczenia niektórych czasowników (quedarse, irse, tomarse)
+Total student workload
+Number of hours: 45
 
-Przymiotnik
-• Tworzenie przymiotników o znaczeniu przeciwstawnym
-• Przymiotniki złożone
-• Szyk przymiotnika i formy skrócone
+Number of contact hours
+Number of hours: 45
 
-Przyimek
-• Stosowanie por i para
-• Specyficzne użycie przyimków w połączeniu z niektórymi czasownikami i w wyrażeniach przyimkowych
+* one class hour means 45 minutes
 
-Czasownik
-• Funkcje form bezosobowych (infinitivo, infinitivo compuesto, participio, gerundio)
-• Morfologia i zastosowania czasów trybu oznajmującego [presente, preterito perfecto, preterito indefinido, preterito imperfecto, preterito pluscuamperfecto, futuro simple i futuro compuesto de indicativo]
-• Morfologia i zastosowania czasów trybu warunkowego [condicional simple, condicional compuesto] Morfologia i zastosowania trybu subjuntivo [presente, preterito perfecto, preterito imperfecto, preterito pluscuamperfecto de subjuntivo]
-• Strona bierna [ser+ participio (+ por + agente)]
-• Stosowanie konstrukcji peryfrastycznych [np.: Estar+participio, Estar+gerundio, acabar+ de+infinit., terminar + de + infinit., volver + a + infinit., llevar + gerundio, ir+ gerundio]
-• Tworzenie konstrukcji bezosobowych
-• Korelacja czasów w zdaniach podrzędnie złożonych
-• Stosowanie czasowników ser, estar, haber
-• Ważniejsze czasowniki zmieniające znaczenie w zależnści od strony (np.:poner/ ponerse, quedar/ quedarse) i wyrazu, który im towarzyszy (np.:ponerse + a, ponerse + de).
+Semester 4
+Types of student activity	Average number of hours* devoted to completed activities
+Language classes	45
+Preparation for classes	8
+Independent study of class topics	5
+Exam or final test	2
 
-Wyrazy i wyrażenia
-• wskazujące na związki logiczne pomiędzy częściami zdania (prostego, złożonego),
-• zapewniające spójność wypowiedzi (ustnej lub pisemnej),
-• odzwierciedlające stosunek mówiącego do prezentowanych treści (w dyskusji)
+Total student workload
+Number of hours: 60
 
-Przedstawianie własnej opinii, podawanie informacji pochodzącej z innych źródeł, uściślenie, organizacja wypowiedzi i dodawanie nowych argumentów, uwypuklanie wcześniej podanego argumentu, wprowadzanie nowych kontrargumentów, przeciwstawianie elementów, porządkowanie informacji, korygowanie informacji, przeformułowanie, podsumowanie, wyjaśnienie/ usprawiedliwienie, przytaczanie przykładów, przytaczanie przyczyn.
-• wyrażające przypuszczenie, hipotezę, warunek, przyzwolenie, przyczynę, skutek
-• określające relacje czasowe (następstwo, uprzedniość, jednoczesność, konkretny moment lub okres, moment początkowy lub końcowy, trwanie)
+Number of contact hours
+Number of hours: 45
 
-Mowa zależna
-• transformacja poszczególnych elementów zdania/wypowiedzi; semantyka czasowników oznaczających akt komunikacji.
-• Tworzenie porównań i superlativo absoluto
+* one class hour means 45 minutes
 
+Syllabus content
+No.	Syllabus content	Learning outcomes for the course	Forms of classes
+1.	Spanish Language B-2 – compulsory course, 135 hours. Classes within the module are conducted in the form of practical classes (135 hours).	U1, U2, U3, U4, U5	Language classes
+GRAMMAR TOPICS
 
-TEMATYKA I SŁOWNICTWO
-Prezentowane poniżej zagadnienia odzwierciedlają różne aspekty funkcjonowania człowieka w społeczeństwie i w sposób bezpośredni lub pośredni wpisują się w kształcenie słownictwa i frazeologii niezbędnych do osiągnięcia przez studenta sukcesu w środowisku akademickim lub zawodowym. Rozwijają umiejętność zrozumienia tekstu w formie pisemnej lub ustnej i świadomego, przemyślanego budowania wypowiedzi na tematy zawodowe i akademickie (z perspektywy własnego wykształcenia) oraz tematy ogólne, stanowiące uniwersalną bazę porozumienia w kręgu osób na danym poziomie wykształcenia.
+Noun
 
-• Praca zawodowa: wymagania, umiejętności, doświadczenia, oczekiwania i obawy, formy kontaktu z pracodawcą i zespołem
-• Edukacja. Moja uczelnia, wydział i kierunek studiów, przedmioty i formy zajęć
-• Życie studenckie, (nauka, normy, obowiązki i ograniczenia, rozrywka, dodatkowe możliwości rozwoju, praca indywidualna i grupowa)
-• Projektowanie produktów spełniających określone wymagania (przedmiot, miejsce itp.)
-• Środki i sposoby przekazywania informacji we współczesnym świecie
-• Wydarzenia polityczne i historyczne
-• Kultura: filmy, spektakle, lektury
-• Problemy globalne i problemy lokalnych społeczności
-• Miasta: historia, atrakcje, infrastruktura, kultura, gastronomia
-• Zwyczaje, święta, tradycje lokalne i międzynarodowe
-• Podróże, turystyka, przemysł turystyczny
-• Stan środowiska naturalnego
-• Zachowania prozdrowotne, aktywność fizyczna, sporty ekstremalne
-• Relacje międzyludzkie i styl życia: rodzina, przyjaciele, grupy formalne i nieformalne, subkultury
-• Reakcje psychologiczne na zdarzenia i wyzwania, stosunek do zjawisk niezrozumiałych
+Verbal nouns
+Nouns derived from adjectives
 
+Personal pronoun: functions, omission, word order, form
 
-FUNKCJE JĘZYKOWE i INNE SPRAWNOŚCI
-Prezentowane poniżej w sposób szczegółowy funkcje stanowią składowe dwóch szerokich działów: tworzenie dłuższych wypowiedzi indywidualnych (ustnych lub pisemnych, o charakterze informacyjnym, argumentacyjnym lub mieszanym) oraz udział w rozmowie z jednym lub wieloma partnerami (dyskusja, debata, narada, rozmowa kwalifikacyjna). W obydwu przypadkach celem jest kształcenie umiejętności wyważonego i fachowego prezentowania własnego profilu zawodowego i wiedzy oraz zajęcie aktywnej postawy w sytuacjach typowych dla środowiska akademickiego i zawodowego.
+As subject, in order to achieve clarity, emphasis, express opposition
+As direct object; permitted forms; use when the direct object precedes the predicate
+As indirect object; use despite the presence of a noun, duplication in evaluative constructions
+With a preposition (entre, excepto, salvo, incluso, hasta, según + personal subject pronoun)
+Word order and form of indirect object + direct object
 
-• Podawać informacje, wskazywać, precyzować, definiować, opisywać; prosić o informacje, podawać i uzupełniać informacje, prosić o potwierdzenie i odnosić się do udzielonych informacji
-• Prosić o opinię/ocenę i wyrażać opinię/ocenę
-• Wyrażać aprobatę/dezaprobatę, poparcie lub brak poparcia
-• Wyrażać zgodę/niezgodę; pytać kogoś o zgodę, zachęcać do zgody
-• Okazywać powątpiewanie
-• Przedstawiać argumenty i kontrargumenty
-• Wyrażać pewność/oczywistość lub ich brak
-• Formułować hipotezy
-• Wyrażać możliwość, prawdopodobieństwo
-• Wyrażać warunki i wymagania
-• Przedstawiać cele i przyczyny
-• Wyrażać konieczność lub potrzebę lub ich brak
-• Pytać o znajomość czegoś; wyrażać znajomość lub jej brak
-• Pytać o umiejętności i doświadczenia i przedstawiać je rozmówcy
-• Pytać o upodobania i zainteresowania i przedstawiać je
-• Pytać o preferencje i określać preferencje; wyrażać obojętność lub brak preferencji
-• Pytać o pragnienia/życzenia i przedstawiać je
-• Pytać o plany i intencje i przedstawiać je
-• Pytać o doznania emocjonalne i wyrażać radość, satysfakcję, smutek, znudzenie, przesyt, awersję, gniew, oburzenie, lęk, niepokój, troskę, współczucie, otuchę, nadzieję, rozczarowanie, rezygnację, wyrzuty sumienia, wstyd, zaskoczenie, zdziwienie, podziw i dumę
-• Określać doznania fizyczne
-• Wydawać polecenia lub wskazówki
-• Prosić o uprzejmość, o przedmiot, pomoc; ofiarowywać pomoc w działaniu
-• Zwracać się z prośbą/wnioskiem/podaniem i odpowiadać
-• Prosić o pozwolenie, udzielać zgody/ nie udzielać zgody; zabraniać
-• Proponować i sugerować rozwiązania, wspólne działania
-• Częstować, proponować i zapraszać; przyjmować ofertę lub zaproszenie lub odmawiać
-• Doradzać, ostrzegać, grozić
-• Robić wyrzuty
-• Składać obietnice i wyrażać zaangażowanie
-• Uspokajać i pocieszać
-• Przedstawiać cele i przyczyny
-• Formułować warunki i wymagania
-• Redagować teksty: maile i listy prywatne oraz oficjalne np. list motywacyjny, CV, wnioski, podania, zażalenia, sprawozdania
-• Odnieść się pisemnie lub ustnie do tekstów oralnych (wywiadów, rozmów o treści ogólnej, a także wypowiedzi o charakterze popularno-naukowym)
-• Czytać ze zrozumieniem teksty o charakterze popularno-naukowym.
-• Tworzyć i prezentować dłuższe wypowiedzi ustne związane z dziedziną studiów
-	U1, U2, U3, U4, U5 	Lektorat
-Informacje rozszerzone
-Semestr 2
-Metody i techniki kształcenia :
+Reflexive pronoun: functions
 
-Metoda problemowa (ang. Problem Based Learning), Praca grupowa, Studium przypadku (ang. case study), Dyskusja
-Rodzaj zajęć 	Metody zaliczenia 	Warunki zaliczenia przedmiotu
-Lektorat 	Aktywność na zajęciach, Udział w dyskusji, Wykonanie ćwiczeń, Kolokwium, Egzamin, Wynik testu zaliczeniowego, Wypracowania pisane na zajęciach, Prezentacja
-Semestr 3
-Metody i techniki kształcenia :
+Use in impersonal statements; reciprocal meaning; modification of the meaning of certain verbs (quedarse, irse, tomarse)
 
-Dyskusja, Praca grupowa, Metoda problemowa (ang. Problem Based Learning), Studium przypadku (ang. case study)
-Rodzaj zajęć 	Metody zaliczenia 	Warunki zaliczenia przedmiotu
-Lektorat 	Aktywność na zajęciach, Udział w dyskusji, Wykonanie ćwiczeń, Kolokwium, Egzamin, Wynik testu zaliczeniowego, Wypracowania pisane na zajęciach, Prezentacja
-Semestr 4
-Metody i techniki kształcenia :
+Adjective
 
-Dyskusja, Praca grupowa, Metoda problemowa (ang. Problem Based Learning), Studium przypadku (ang. case study)
-Rodzaj zajęć 	Metody zaliczenia 	Warunki zaliczenia przedmiotu
-Lektorat 	Aktywność na zajęciach, Udział w dyskusji, Wykonanie ćwiczeń, Kolokwium, Egzamin, Wynik testu zaliczeniowego, Wypracowania pisane na zajęciach, Prezentacja
-Warunki i sposób zaliczenia poszczególnych form zajęć, w tym zasady zaliczeń poprawkowych, a także warunki dopuszczenia do egzaminu
+Forming adjectives with opposite meaning
+Compound adjectives
+Adjective order and short forms
 
-Warunkiem uzyskania zaliczenia jest otrzymanie oceny pozytywnej z wszystkich przeprowadzonych w trakcie semestru kolokwiów. W wypadku otrzymania oceny negatywnej student ma prawo do poprawy oceny na następujących zasadach: * Poprawa oceny negatywnej uzyskanej w pierwszym terminie skutkuje przekreśleniem oceny negatywnej i zastąpienie jej oceną pozytywną, która będzie liczyć się do średniej. * Poprawa oceny uzyskanej w drugim terminie skutkuje wpisaniem do arkusza średniej z dwóch otrzymanych ocen. Średnia ocena cząstkowa w wypadku zaliczenia testu nie może być mniejsza niż 3.0. * Nieusprawiedliwiona nieobecność na teście skutkuje utratą terminu. * Każdy student ma prawo do dwóch kolokwiów poprawkowych. * Kolokwia mogą dobywać się w odstępach czasu nie krótszych niż 2 dni. * Student ma prawo zobaczyć swoje ocenione prace i zapytać o wyjaśnienie sposobu oceny oraz podanie poprawnych odpowiedzi, nie wolno mu jednak fotografować ani w inny sposób kopiować materiałów testowych. Student jest zobowiązany do posiadana podręcznika do nauki języka oraz wykonywania prac domowych. Brak wymaganych materiałów (podręcznika, prac domowych) skutkuje wpisaniem w arkuszu ewidencyjnym adnotacji “nieprzygotowany”. Prowadzący ma prawo odmówić zaliczenia studentowi, który był nieprzygotowany do więcej niż 1/2 zajęć, również w przypadku zaliczenia przez niego wszystkich kolokwiów. Student otrzymuje dodatkowe oceny za aktywność na zajęciach, nieobowiązkowe prace domowe, prezentacje oraz inne działania na rzecz swojej grupy zajęciowej. Warunkiem dopuszczenia do egzaminu jest zaliczenie obowiązkowych semestrów lektoratu.
-Sposób obliczania oceny końcowej
+Preposition
 
-Ocena końcowa z lektoratu ustalana jest jako średnia arytmetyczna wszystkich ocen uzyskanych przez studenta z zaliczeń poszczególnych semestrów oraz egzaminu z języka obcego.
-Sposób i tryb wyrównywania zaległości powstałych wskutek nieobecności studenta na zajęciach
+Use of por and para
+Specific use of prepositions with certain verbs and in prepositional phrases
 
-Student powinien uczestniczyć we wszystkich zajęciach swojej grupy językowej. W wypadku nieobecności spowodowanej chorobą student powinien dostarczyć zwolnienie lekarskie najpóźniej 14 dni po nieobecności usprawiedliwionej zwolnieniem. W wypadku nieobecności nieusprawiedliwionej student powinien zgłosić się do prowadzącego, który każdemu studentowi poda indywidualnie sposób odrobienia nieobecności. Nieobecność należy odrobić w terminie 14 dni od daty nieobecności. Nieobecność nieusprawiedliwiona na dwóch zajęciach nie wymaga odrabiania. Jeśli ilość nieobecności nieusprawiedliwionych przekroczy 7, prowadzący powinien odmówić zaliczenia semestru, nawet jeśli część z nich była wcześniej odrobiona.
-Wymagania wstępne i dodatkowe
+Verb
 
-Znajomość języka hiszpańskiego na poziomie co najmniej A-2.
+Functions of non-finite forms (infinitivo, infinitivo compuesto, participio, gerundio)
+Morphology and use of indicative tenses [presente, pretérito perfecto, pretérito indefinido, pretérito imperfecto, pretérito pluscuamperfecto, futuro simple and futuro compuesto de indicativo]
+Morphology and use of conditional tenses [condicional simple, condicional compuesto]
+Morphology and use of the subjunctive [presente, pretérito perfecto, pretérito imperfecto, pretérito pluscuamperfecto de subjuntivo]
+Passive voice [ser + participio (+ por + agente)]
+Use of periphrastic constructions [e.g. estar + participio, estar + gerundio, acabar de + infinitive, terminar de + infinitive, volver a + infinitive, llevar + gerundio, ir + gerundio]
+Forming impersonal constructions
+Sequence of tenses in subordinate clauses
+Use of the verbs ser, estar, haber
+Major verbs changing meaning depending on voice (e.g. poner / ponerse, quedar / quedarse) and on the accompanying word (e.g. ponerse + a, ponerse + de)
 
-Zasady udziału w poszczególnych zajęciach, ze wskazaniem, czy obecność studenta na zajęciach jest obowiązkowa
+Words and expressions
 
-Lektorat: Studenci przystępując do ćwiczeń są zobowiązani do przygotowania się w zakresie wskazanym każdorazowo przez prowadzącego (np. w formie zestawów zadań). Ocena pracy studenta może bazować na wypowiedziach ustnych lub pisemnych w formie kolokwium, co zgodnie z regulaminem studiów AGH przekłada się na ocenę końcową z tej formy zajęć.
-Literatura
-Obowiązkowa
+Indicating logical relationships between parts of a sentence (simple or complex)
+Ensuring coherence of speech (oral or written)
+Reflecting the speaker’s attitude toward the presented content (in discussion)
 
-    Obowiązujący podręcznik / materiały kursowe
+Expressing one’s own opinion, providing information from other sources, уточnienie/clarification, organizing speech and adding new arguments, highlighting a previously given argument, introducing new counterarguments, contrasting elements, organizing information, correcting information, reformulating, summarizing, explaining/justifying, giving examples, giving causes.
 
-Dodatkowa
+Expressing supposition, hypothesis, condition, concession, cause, result
+Defining temporal relations (sequence, precedence, simultaneity, a specific moment or period, starting or ending point, duration)
 
-    - Aula Internacional 4, nueva edición, Difusión
-    - Gramática de uso del español A1-B2 i B1-2, Ediciones SM
-    - https://campus.difusion.com
+Reported speech
 
+Transformation of individual sentence/utterance elements; semantics of verbs denoting an act of communication
+Forming comparisons and the superlativo absoluto
+TOPICS AND VOCABULARY
+
+The issues presented below reflect various aspects of human functioning in society and directly or indirectly contribute to the development of vocabulary and phraseology necessary for the student to succeed in an academic or professional environment. They develop the ability to understand written or spoken texts and to consciously and thoughtfully construct statements on professional and academic topics (from the perspective of one’s own education), as well as on general topics that constitute a universal basis for communication among people at a given level of education.
+
+Professional work: requirements, skills, experience, expectations and concerns, forms of contact with employer and team
+Education. My university, faculty and field of study, courses and forms of classes
+Student life (studying, norms, duties and limitations, entertainment, additional development opportunities, individual and group work)
+Designing products that meet specific requirements (object, place, etc.)
+Means and methods of transmitting information in the modern world
+Political and historical events
+Culture: films, performances, reading materials
+Global problems and problems of local communities
+Cities: history, attractions, infrastructure, culture, gastronomy
+Customs, holidays, local and international traditions
+Travel, tourism, tourism industry
+State of the natural environment
+Health-promoting behaviour, physical activity, extreme sports
+Interpersonal relations and lifestyle: family, friends, formal and informal groups, subcultures
+Psychological reactions to events and challenges, attitude toward incomprehensible phenomena
+LANGUAGE FUNCTIONS AND OTHER SKILLS
+
+The functions presented below in detail constitute components of two broad categories: producing longer individual utterances (spoken or written, informative, argumentative, or mixed in nature) and participating in conversation with one or more partners (discussion, debate, meeting, job interview). In both cases, the goal is to develop the ability to present one’s professional profile and knowledge in a balanced and competent way and to take an active role in situations typical of the academic and professional environment.
+
+Give information, indicate, specify, define, describe; ask for information, provide and supplement information, ask for confirmation and respond to the information given
+Ask for an opinion/evaluation and express an opinion/evaluation
+Express approval/disapproval, support or lack of support
+Express agreement/disagreement; ask someone for agreement, encourage agreement
+Show doubt
+Present arguments and counterarguments
+Express certainty/obviousness or lack thereof
+Formulate hypotheses
+Express possibility, probability
+Express conditions and requirements
+Present goals and causes
+Express necessity or need, or lack thereof
+Ask about familiarity with something; express familiarity or lack of it
+Ask about skills and experience and present them to the interlocutor
+Ask about likes and interests and present them
+Ask about preferences and define preferences; express indifference or lack of preference
+Ask about desires/wishes and present them
+Ask about plans and intentions and present them
+Ask about emotional experiences and express joy, satisfaction, sadness, boredom, excess, aversion, anger, indignation, fear, anxiety, concern, compassion, encouragement, hope, disappointment, resignation, remorse, shame, surprise, astonishment, admiration, and pride
+Describe physical sensations
+Give orders or instructions
+Ask for a favour, an object, help; offer help in action
+Make a request/application/petition and respond
+Ask for permission, grant/refuse permission; forbid
+Propose and suggest solutions, joint actions
+Offer food/drink, propose and invite; accept or refuse an offer or invitation
+Advise, warn, threaten
+Reproach
+Make promises and express commitment
+Calm and comfort
+Present goals and causes
+Formulate conditions and requirements
+Draft texts: private and official emails and letters, e.g. cover letter, CV, applications, petitions, complaints, reports
+Respond in writing or orally to oral texts (interviews, conversations on general topics, as well as popular science statements)
+Read and understand popular science texts
+Create and present longer oral statements related to the field of study
+Extended information
+Semester 2
+
+Teaching methods and techniques:
+Problem-based learning, Group work, Case study, Discussion
+
+Type of class	Assessment methods	Course completion requirements
+Language classes	Class participation, Participation in discussion, Completing exercises, Midterm test, Exam, Final test result, Written assignments completed in class, Presentation	
+Semester 3
+
+Teaching methods and techniques:
+Discussion, Group work, Problem-based learning, Case study
+
+Type of class	Assessment methods	Course completion requirements
+Language classes	Class participation, Participation in discussion, Completing exercises, Midterm test, Exam, Final test result, Written assignments completed in class, Presentation	
+Semester 4
+
+Teaching methods and techniques:
+Discussion, Group work, Problem-based learning, Case study
+
+Type of class	Assessment methods	Course completion requirements
+Language classes	Class participation, Participation in discussion, Completing exercises, Midterm test, Exam, Final test result, Written assignments completed in class, Presentation	
+Conditions and method of passing individual forms of classes, including resit rules, as well as conditions for admission to the exam
+
+The condition for obtaining a pass is receiving a positive grade in all midterm tests conducted during the semester. In the event of receiving a failing grade, the student has the right to retake the assessment according to the following rules:
+
+Retaking a failed grade obtained on the first date results in the failing grade being crossed out and replaced with a passing grade, which will count toward the average.
+Retaking a grade obtained on the second date results in the average of the two grades being entered in the record sheet.
+The average partial grade, if the test is passed, may not be lower than 3.0.
+An unexcused absence from a test results in forfeiture of that test date.
+Each student has the right to two resit tests.
+Tests may take place at intervals of no less than 2 days.
+The student has the right to see their graded work and ask for an explanation of the grading method and the correct answers, but may not photograph or otherwise copy the test materials.
+
+The student is required to have a language learning textbook and complete homework assignments. Lack of the required materials (textbook, homework) results in the notation “unprepared” being entered in the attendance register. The instructor has the right to refuse a pass to a student who was unprepared for more than half of the classes, even if they passed all the tests.
+
+The student receives additional grades for class participation, optional homework, presentations, and other activities for their class group.
+
+A condition for admission to the exam is passing the compulsory semesters of the language course.
+
+Method of calculating the final grade
+
+The final grade for the language course is determined as the arithmetic mean of all grades obtained by the student from passing the individual semesters and the foreign language exam.
+
+Method and procedure for making up deficiencies resulting from the student’s absence from classes
+
+The student should attend all classes of their language group. In the case of absence due to illness, the student should provide a medical certificate no later than 14 days after the absence justified by the certificate. In the case of an unexcused absence, the student should contact the instructor, who will individually determine the method of making up the absence. The absence should be made up within 14 days from the date of absence.
+
+An unexcused absence from two classes does not require make-up work. If the number of unexcused absences exceeds 7, the instructor should refuse to pass the semester, even if some of them were previously made up.
+
+Preliminary and additional requirements
+
+Knowledge of Spanish at at least A-2 level.
+
+Rules for participation in individual classes, including whether attendance is compulsory
+
+Language classes: Students attending practical classes are required to prepare in the scope indicated each time by the instructor (e.g. in the form of task sets). The assessment of the student’s work may be based on oral or written statements in the form of a test, which, in accordance with the AGH study regulations, translates into the final grade for this form of classes.
+
+Literature
+Mandatory
+Required textbook / course materials
+Additional
+Aula Internacional 4, new edition, Difusión
+Gramática de uso del español A1-B2 and B1-2, Ediciones SM
+https://campus.difusion.com

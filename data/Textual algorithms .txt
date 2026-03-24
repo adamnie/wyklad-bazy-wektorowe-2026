@@ -1,172 +1,211 @@
+Text Algorithms
+Course Description Card
 
-Logo
-Textual algorithms
-Course description sheet
-Basic information
+Basic Information
 
 Field of study
-    Computer Science
-Major
-    -
-Organisational unit
-    Faculty of Computer Science
-Study level
-    First-cycle (engineer) programme
-Form of study
-    Full-time studies
-Profile
-    General academic
+Computer Science (joint program – WI and WEAIiIB)
 
-Didactic cycle
-    2025/2026
+Specialization
+–
+
+Organizational unit
+Faculty of Computer Science
+
+Level of study
+First-cycle engineering studies
+
+Mode of study
+Full-time
+
+Study profile
+General academic
+
+Academic year
+2025/2026
+
 Course code
-    WIINFS.Ii8.07464.25
-Lecture languages
-    Polish
-Mandatoriness
-    Obligatory
-Block
-    Core Modules
-Course related to scientific research
-    No
+WIINFS.Ii8.07464.25
+
+Language of instruction
+Polish
+
+Course status
+Mandatory
+
+Course block
+Major courses
+
+Research-related course
+No
 
 Course coordinator
 Bartosz Ziółko
-Lecturer
+
+Instructors
 Bartosz Ziółko, Michał Korzycki
+
 Period
 Semester 4
 
-Method of verification of the learning outcomes
-Completing the classes
-Activities and hours
-Lectures: 14
+Assessment form
+Pass
+
+Teaching format and contact hours
+Lecture: 14
 Laboratory classes: 14
 
-Number of ECTS credits
+ECTS credits
 3
-Goals
-C1 	Teaching of selected natural language processing algorithms and their possible applications
-C2 	Teaching of implementation of software using natural language processing libraries
-C3 	Teaching of implementation and testing of natural language processing algorithms
-Course's learning outcomes
-Code 	Outcomes in terms of 	Learning outcomes prescribed to a field of study 	Methods of verification
-Knowledge – Student knows and understands:
-W1 	Knows and understands the basic mechanisms of text algorithms analysis 	INF1A_W02 	Test, Report, Oral answer
-W2 	Has knowledge about the representation of texts 	INF1A_W01 	Report
-W3 	He knows and understands the basic mechanisms and techniques of constructing text algorithms 	INF1A_W02 	Report
-W4 	Has knowledge of basic text algorithms 	INF1A_W02 	Report
-Skills – Student can:
-U1 	He can use complex text data structures 	INF1A_U02 	Test, Diploma thesis
-U2 	Is able to solve algorithmic tasks related to text processing 	INF1A_U02 	Test, Diploma thesis
-Social competences – Student is ready to:
-K1 	He can critically evaluate the presented algorithmic solutions, justify his assessment, and develop the proposed solutions in a group discussion. 	INF1A_K02 	Participation in a discussion
-Program content ensuring the achievement of the learning outcomes prescribed to the module
-The course acquaints students with text algorithms and their application.
+
+Course learning objectives
+
+C1 Teach selected natural language processing algorithms and their possible applications
+C2 Teach software implementation using natural language processing libraries
+C3 Teach implementation and testing of natural language processing algorithms
+
+Learning outcomes for the course
+Knowledge – the student knows and understands:
+
+W1 Knows and understands the basic mechanisms of text algorithm analysis
+Related program learning outcome: INF1A_W02
+Verification methods: Test, Report, Oral response
+
+W2 Has knowledge of text representations
+Related program learning outcome: INF1A_W01
+Verification methods: Report
+
+W3 Knows and understands the basic mechanisms and techniques for constructing text algorithms
+Related program learning outcome: INF1A_W02
+Verification methods: Report
+
+W4 Has knowledge of basic text algorithms
+Related program learning outcome: INF1A_W02
+Verification methods: Report
+
+Skills – the student is able to:
+
+U1 Can use complex text data structures
+Related program learning outcome: INF1A_U02
+Verification methods: Test, Diploma project
+
+U2 Can solve algorithmic tasks related to text processing
+Related program learning outcome: INF1A_U02
+Verification methods: Test, Diploma project
+
+Social competences – the student is ready to:
+
+K1 Can critically evaluate presented algorithmic solutions, justify their assessment, and develop proposed solutions in group discussion.
+Related program learning outcome: INF1A_K02
+Verification methods: Participation in discussion
+
+Course content ensuring achievement of the learning outcomes for the module
+
+The course introduces students to text algorithms and their applications.
+
 Student workload
-Activity form 	Average amount of hours* needed to complete each activity form
-Lectures 	14
-Laboratory classes 	14
-Preparation for classes 	24
-Realization of independently performed tasks 	28
-Contact hours 	5
-Examination or final test/colloquium 	2
-Student workload
-Hours
-87
-Workload involving teacher
-Hours
-28
+Student activity type	Average number of hours* spent on completed activities
+Lecture	14
+Laboratory classes	14
+Preparation for classes	24
+Independent study of course topics	28
+Additional contact hours	5
+Exam or final test	2
 
-* hour means 45 minutes
-Program content
-No. 	Program content 	Course's learning outcomes 	Activities
-1.
+Total student workload
+Number of hours: 87
 
-Fundamentals of Natural Language Processing
+Number of contact hours
+Number of hours: 28
 
+* one class hour means 45 minutes
+
+Course content
+1. Fundamentals of natural language processing
 Concepts and terminology: tokenization, normalization, syntactic and semantic analysis.
 Stages of the NLP process: data preparation, text representation, analysis, and interpretation.
 
 Language representation in computer systems
 
-General principles for creating text representation models (e.g., vectorization, linguistic features).
+General principles of creating text representation models (e.g. vectorization, linguistic features).
 The impact of data quality on the effectiveness of NLP methods.
-	W1, W3 	Lectures, Laboratory classes
-2.
 
-Approaches to Language Processing
+Learning outcomes for the course: W1, W3
+Teaching formats: Lecture, Laboratory classes
 
-Characteristics of rule-based, statistical, and machine learning methods.
-General assumptions for using language models in text analysis.
+2. Approaches to language processing
+Characteristics of rule-based, statistical, and machine-learning-based methods.
+General assumptions behind the use of language models in text analysis.
 
-Text Data Preparation
+Preparation of text data
 
 Preprocessing techniques: segmentation, noise removal, normalization.
-The importance of context and multilingualism in data.
-	W2, W4, U1, K1 	Lectures, Laboratory classes
-3.
+The importance of context and multilinguality in data.
 
-Analysis and evaluation of NLP methods
+Learning outcomes for the course: W2, W4, U1, K1
+Teaching formats: Lecture, Laboratory classes
 
-Comparison of various text representation strategies and their applications.
-Identification of sources of error and limitations in the NLP process.
-	U2 	Lectures, Laboratory classes
-4.
+3. Analysis and evaluation of NLP methods
+Comparison of different text representation strategies and their applications.
+Identification of sources of errors and limitations in the NLP process.
 
-Designing NLP Solutions
+Learning outcomes for the course: U2
+Teaching formats: Lecture, Laboratory classes
 
-General architecture of NLP-based systems: stages, components, integration.
+4. Designing NLP solutions
+General architecture of systems using NLP: stages, components, integration.
+Strategies for handling language ambiguity and multilinguality.
 
-Strategies for dealing with language ambiguity and multilingualism.
-	W3, U1 	Lectures, Laboratory classes
-5.
+Learning outcomes for the course: W3, U1
+Teaching formats: Lecture, Laboratory classes
 
-Practical Applications of NLP (chosen topics)
-
+5. NLP applications in practice (selected topics)
 Information retrieval and knowledge extraction from text.
-Sentiment and opinion analysis.
+Opinion and sentiment analysis.
 Dialogue systems and chatbots.
-Automatic text translation and summarization.
-False information detection and content moderation.
-Language processing in business applications (e.g., document analysis, customer service).
-	W3, U2, K1 	Lectures, Laboratory classes
-Extended information/Additional elements
-Teaching methods and techniques :
+Automatic translation and text summarization.
+Detection of false information and content moderation.
+Language processing in business applications (e.g. document analysis, customer service).
 
-Brainstorming using the 3-6-5 method, four-field, dot voting, symptoms causes action, Discussion, Socratic questioning, E-learning, Feedback, Lecture, Group work, Problem Based Learning, Project Based Learning, Case study, Mentoring, Demonstration, Work with source text, Workshop, Brainstorming using the 3-6-5 method, four-field, dot voting, symptoms causes action
-Activities 	Methods of verification 	Credit conditions
-Lectures 	Participation in a discussion, Oral answer 	Participation in discussion.
-Lab. classes 	Participation in a discussion, Test, Report, Diploma thesis, Oral answer 	Passing the course requires attendance and completion of laboratory projects. Depending on the course completion, an oral or written final exam may be required.
-Conditions and the manner of completing each form of classes, including the rules of making retakes, as well as the conditions for admission to the exam
+Learning outcomes for the course: W3, U2, K1
+Teaching formats: Lecture, Laboratory classes
 
-Classroom Activities
+Extended information
+Teaching methods and techniques
 
-Project Design and Implementation
+Brainstorming using the 3-6-5 method, four-field analysis, dot voting, symptoms-causes-action, discussion, Socratic questioning, distance learning, feedback, lecture, group work, problem-based learning, project-based learning, case study, mentoring, demonstration, instruction, working with source materials, workshop method, brainstorming using the 3-6-5 method, four-field analysis, dot voting, symptoms-causes-action
 
-Project Presentation
-Method of determining the final grade
+Type of class	Assessment methods	Course completion requirements
+Lecture	Participation in discussion, Oral response	Participation in discussion
+Laboratory classes	Participation in discussion, Test, Report, Diploma project, Oral response	The condition for passing is attendance and completion of projects in the lab classes. Depending on the course delivery, an oral or written final test may be required.
+Conditions and method of passing individual class forms, including resit rules, as well as conditions for admission to the exam
+Activity during classes
+Design and implementation of a project
+Project presentation
+Method of calculating the final grade
 
 In accordance with the study regulations
-Manner and mode of making up for the backlog caused by a student justified absence from classes
 
-Participation in classes of another group or on a make-up date.
-Prerequisites and additional requirements
+Method and procedure for making up deficiencies caused by the student’s absence from classes
+
+Participation in classes of another group or during a resit session.
+
+Preliminary and additional requirements
 
 Knowledge of Python. Knowledge of algorithms and data structures.
 
-Rules of participation in given classes, indicating whether student presence at the lecture is obligatory
+Rules for participation in individual classes, including whether student attendance is mandatory
 
-Lectures: Studenci uczestniczą w zajęciach poznając kolejne treści nauczania zgodnie z syllabusem przedmiotu. Studenci winni na bieżąco zadawać pytania i wyjaśniać wątpliwości. Rejestracja audiowizualna wykładu wymaga zgody prowadzącego. Laboratory classes: Studenci wykonują ćwiczenia laboratoryjne zgodnie z materiałami udostępnionymi przez prowadzącego. Student jest zobowiązany do przygotowania się w przedmiocie wykonywanego ćwiczenia, co może zostać zweryfikowane kolokwium w formie ustnej lub pisemnej. Zaliczenie zajęć odbywa się na podstawie zaprezentowania rozwiązania postawionego problemu. Zaliczenie modułu jest możliwe po zaliczeniu wszystkich zajęć laboratoryjnych.
+Lecture: Students participate in classes, learning successive course content in accordance with the course syllabus. Students should regularly ask questions and clarify doubts. Audio-visual recording of the lecture requires the instructor’s consent.
+
+Laboratory classes: Students complete laboratory exercises in accordance with materials provided by the instructor. The student is required to prepare for the exercise being performed, which may be verified by an oral or written test. Passing the class is based on presenting a solution to the assigned problem. Passing the module is possible only after passing all laboratory classes.
+
 Literature
-Obligatory
-
-    M. Crochemore, W. Rytter, Jewls of Stringology. Text algorithms, World Scientific 2003
-    Jurafsky, D., Martin, J. H. – Speech and Language Processing
-    Manning, C. D., Schütze, H. – Foundations of Statistical Natural Language Processing
-    Dokumentacja bibliotek: NLTK, spaCy, Transformers (HuggingFace).
-
-Optional
-
-    Kanał Youtube prowadzącego przedmiot: https://www.youtube.com/bartoszziolko
-    Kursy online: Stanford CS224N: Natural Language Processing with Deep Learning (dostępne nagrania i materiały).
+Required
+M. Crochemore, W. Rytter, Jewels of Stringology. Text Algorithms, World Scientific, 2003
+Jurafsky, D., Martin, J. H. – Speech and Language Processing
+Manning, C. D., Schütze, H. – Foundations of Statistical Natural Language Processing
+Library documentation: NLTK, spaCy, Transformers (HuggingFace)
+Additional
+Instructor’s YouTube channel: https://www.youtube.com/bartoszziolko
+Online courses: Stanford CS224N: Natural Language Processing with Deep Learning (recordings and materials available).

@@ -1,0 +1,279 @@
+Programming in Python
+Course Description Card
+
+Basic information
+
+Degree program
+Computer Science (joint degree program – Faculty of Computer Science and Faculty of Electrical Engineering, Automatics, Computer Science and Biomedical Engineering)
+
+Specialization
+–
+
+Organizational unit
+Faculty of Computer Science
+
+Level of study
+First-cycle engineering studies
+
+Mode of study
+Full-time
+
+Study profile
+General academic
+
+Teaching cycle
+2025/2026
+
+Course code
+WIINFS.Ii8.01885.25
+
+Language of instruction
+Polish
+
+Course status
+Elective
+
+Course block
+Major courses
+
+Course related to scientific research
+No
+
+Course coordinator
+Anna Wójcicka
+
+Instructor(s)
+Anna Wójcicka
+
+Term
+Semester 4
+
+Assessment form
+Pass
+
+Class format and hours
+Lecture: 14
+Laboratory classes: 14
+
+ECTS credits
+3
+
+Course learning objectives
+
+C1
+The aim of the course is to familiarize students with programming in Python, especially object-oriented programming, as well as the differences between Python and the languages known to students from other courses.
+
+Learning outcomes for the course
+Knowledge – the student knows and understands:
+
+W1
+Knows and understands the basic constructs of the Python language.
+Program learning outcomes: INF1A_W02, INF1A_W03
+Verification methods: class activity, test
+
+W2
+Knows the strengths and weaknesses of Python.
+Program learning outcomes: INF1A_W02, INF1A_W03
+Verification methods: class activity, participation in discussion, test
+
+W3
+Knows good practices related to Python and understands their importance.
+Program learning outcomes: INF1A_W03
+Verification methods: class activity, participation in discussion, test
+
+Skills – the student is able to:
+
+U1
+Use Python language mechanisms in practice. Can justify their selection and knows the consequences of their use.
+Program learning outcomes: INF1A_U04, INF1A_U05, INF1A_U06, INF1A_U07
+Verification methods: class activity, participation in discussion, test, project
+
+U2
+Knowingly choose and apply the data type appropriate to the problem being solved. Is able to compose a complex data type.
+Program learning outcomes: INF1A_U05, INF1A_U06, INF1A_U07
+Verification methods: class activity, participation in discussion, project
+
+U3
+Analyze source code, assess its quality, and find and fix typical errors.
+Program learning outcomes: INF1A_U05
+Verification methods: class activity, participation in discussion, project
+
+U4
+Design and implement a program according to given guidelines.
+Program learning outcomes: INF1A_U04, INF1A_U05, INF1A_U06, INF1A_U07
+Verification methods: project
+
+Social competencies – the student is ready to:
+
+K1
+Assess the workload of a given project and complete it on time. Related outcomes: INF1A_K04
+Program learning outcomes: INF1A_K02, INF1A_K05
+Verification method: project
+
+K2
+Use available aids consciously and responsibly (libraries, code snippets).
+Program learning outcomes: INF1A_K02, INF1A_K05
+Verification method: project
+
+Course content ensuring achievement of the learning outcomes for the module
+
+The aim of the course is to familiarize students with programming in Python, especially object-oriented programming, and with the differences between Python and the languages known to students from other courses.
+
+Student workload
+Type of student activity	Average number of hours* devoted to completed activities
+Lecture	14
+Laboratory classes	14
+Preparation for classes	10
+Independent study of course topics	10
+Final exam or credit test	2
+Additional contact hours	5
+Preparation of project, presentation, written work, report	32
+
+Total student workload
+87 hours
+
+Number of contact hours
+28 hours
+
+* one class hour means 45 minutes
+
+Course content
+1. Lecture
+Introduction to the language. Basic constructs and loops. Numeric types. Functions.
+Strings, lists, tuples, sets, and dictionaries. Mutable and immutable types. Lambda expressions. Typing.
+Advanced topics related to functions. Generators and iterators. Functional programming. Advanced use of lists and dictionaries.
+Basics of object orientation. Access to class members, special methods, decorators.
+Exceptions. Context manager. Inheritance.
+Modules and packages. Boolean data types and evaluation of logical expressions. Good practices in Python.
+Regular expressions. Threads and processes. Basics of Django.
+
+Learning outcomes: W1, W2, W3
+Class format: Lecture
+
+2. Laboratory classes
+
+As part of the laboratory classes, students individually or in teams carry out a project task, regularly presenting the progress of their work and discussing selected implementation elements. In addition, they become familiar with popular libraries.
+
+Learning outcomes: W1, W2, W3, U1, U2, U3, U4, K1, K2
+Class format: Laboratory classes
+
+Extended information
+
+Teaching methods and techniques:
+Group work, problem-based learning, lecture
+
+Type of class	Assessment methods	Conditions for passing the course
+Lecture	Class activity, participation in discussion, test
+Laboratory classes	Class activity, participation in discussion, test, project	The laboratory grade consists of the project grade obtained during the laboratory classes with weight 2 and the theoretical (written) test grade with weight 1; both grades must be positive. The student has the right to one retake of a failing grade (for each component separately), and the final grade is the weighted average of all grades obtained, with the weights as above.
+Additional description
+
+Classes are conducted using innovative teaching methods developed in project POWR.03.04.00-00-D002/16, implemented in 2017–2019 at the Faculty of Computer Science, Electronics and Telecommunications as part of the Operational Programme Knowledge Education Development 2014–2020.
+
+Lectures for this course will be conducted remotely using the Webex/Teams platform.
+
+All other classes will take place in classrooms. This also applies to credits and exams held during examination sessions.
+
+Conditions and method of passing individual class forms, including resit rules, as well as conditions for admission to the exam
+
+The laboratory grade consists of the project grade obtained during the laboratory classes with weight 2 and the theoretical (written) test grade with weight 1; both grades must be positive. The student has the right to one retake of a failing grade (for each component separately), and the final grade is the weighted average of all grades obtained, with the weights as above.
+
+Method of calculating the final grade
+
+The final grade is equal to the laboratory grade. The instructor may modify this grade by up to 0.5 grade points due to the student’s additional activity related to the course that was not included in the laboratory grade.
+
+Method and procedure for making up deficiencies caused by absence from classes
+
+Whenever possible, in justified cases, a student may attend classes with another group.
+
+Initial and additional requirements
+
+Knowledge of basic object-oriented programming concepts.
+
+Rules for participation in individual classes, including whether attendance is compulsory
+
+Lecture: Students attend the lecture, take part in discussion, take notes, and clarify doubts by asking questions. Audio-video recording of the lecture requires the instructor’s consent.
+Laboratory classes: Students perform practical work aimed at achieving the competencies assumed in the syllabus. Assessment covers both the method of project implementation and the final result. Attendance at laboratory classes is compulsory.
+
+Literature
+Required
+Python docs: https://docs.python.org/3/
+Guido van Rossum, Python 3.6 - Tutorial, ARTPOWER International PUB, 2016
+Additional
+David M. Beazley, Brian Kenneth Jones, Python. Receptury. Wydanie III (Python Cookbook, 3rd Edition), Helion, 2014
+
+Go to content
+pl | en
+AGH Syllabus
+Log in
+AGH University of Krakow logo
+
+Home page
+Faculty of Computer Science
+Computer Science (joint degree program - WI)
+Computer Science degree program (joint degree program – WI and WEAIiIB)
+
+2025/2026, first-cycle engineering studies, full-time
+
+List of courses – summer semester, 2026/2027
+Course	Number of hours	ECTS credits	Verification form	Status
+[course name not visible in source]	Lecture: 28 / Laboratory classes: 14	3	Pass	Mandatory
+[course name not visible in source]	Lecture: 28 / Laboratory classes: 14	3	Exam	Mandatory
+[course name not visible in source]	Lecture: 28 / Tutorial classes: 14	3	Pass	Mandatory
+[course name not visible in source]	Lecture: 28 / Laboratory classes: 28	4	Exam	Mandatory
+[course name not visible in source]	Language class: 45	5	Exam	Mandatory
+
+The student chooses one course
+
+Language class: 45 — 5 ECTS — Exam — Elective
+Language class: 45 — 5 ECTS — Exam — Elective
+Language class: 45 — 5 ECTS — Exam — Elective
+Language class: 45 — 5 ECTS — Exam — Elective
+Language class: 45 — 5 ECTS — Exam — Elective
+
+Total contact hours: 56
+ECTS credits: 6
+Verification form: Pass
+Status: Mandatory
+
+The student chooses one track and completes all courses assigned to it
+
+Lecture: 28 / Laboratory classes: 28 — 6 ECTS — Pass — Elective
+Lecture: 14 / Laboratory classes: 14 — 3 ECTS — Pass — Mandatory
+Lecture: 14 / Laboratory classes: 14 — 3 ECTS — Pass — Mandatory
+Lecture: 28 / Laboratory classes: 28 — 6 ECTS — Pass — Elective
+Lecture: 28 / Laboratory classes: 28 — 6 ECTS — Pass — Elective
+
+Total contact hours: 56
+ECTS credits: 6
+Verification form: Pass
+Status: Mandatory
+
+The student chooses two courses
+
+Lecture: 14 / Laboratory classes: 14 — 3 ECTS — Pass — Elective
+Lecture: 14 / Laboratory classes: 14 — 3 ECTS — Pass — Elective
+Lecture: 14 / Laboratory classes: 14 — 3 ECTS — Pass — Elective
+Lecture: 14 / Laboratory classes: 14 — 3 ECTS — Pass — Elective
+Lecture: 14 / Laboratory classes: 14 — 3 ECTS — Pass — Elective
+Lecture: 14 / Laboratory classes: 14 — 3 ECTS — Pass — Elective
+Lecture: 14 / Laboratory classes: 14 — 3 ECTS — Pass — Elective
+Lecture: 14 / Laboratory classes: 14 — 3 ECTS — Pass — Elective
+Lecture: 14 / Laboratory classes: 14 — 3 ECTS — Pass — Elective
+Lecture: 14 / Laboratory classes: 14 — 3 ECTS — Pass — Elective
+Lecture: 14 / Laboratory classes: 14 — 3 ECTS — Pass — Elective
+Lecture: 14 / Laboratory classes: 14 — 3 ECTS — Pass — Elective
+Lecture: 14 / Laboratory classes: 14 — 3 ECTS — Pass — Elective
+Lecture: 14 / Laboratory classes: 14 — 3 ECTS — Pass — Elective
+Lecture: 14 / Laboratory classes: 14 — 3 ECTS — Pass — Elective
+Lecture: 14 / Laboratory classes: 14 — 3 ECTS — Pass — Elective
+
+Total: 339 hours, 30 ECTS
+
+AGH University of Krakow logo
+AGH University of Krakow
+Stanisław Staszic
+
+Centre for Accreditation and Quality of Education
+al. Mickiewicza 30
+
+If you want, I can also turn this into a cleaner, polished English syllabus format.

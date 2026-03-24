@@ -1,171 +1,152 @@
+Elements of Statistical Machine Learning
+Course Description Sheet
 
+Basic information
 
-Kierunek studiów
-    Informatyka (kierunek wspólny - WI i WEAIiIB)
-Specjalność
-    -
-Jednostka organizacyjna
-    Wydział Informatyki
-Poziom kształcenia
-    Studia inżynierskie I stopnia
-Forma studiów
-    Stacjonarne
-Profil studiów
-    Ogólnoakademicki
+Degree program
+Computer Science (joint program – WI and WEAIiIB)
 
-Cykl dydaktyczny
-    2025/2026
-Kod przedmiotu
-    WIINFS.Ii8.08694.25
-Języki wykładowe
-    polski
-Obligatoryjność
-    Obowiązkowy
-Blok zajęciowy
-    Przedmioty kierunkowe
-Przedmiot powiązany z badaniami naukowymi
-    Tak
+Specialization
+–
 
-Koordynator przedmiotu
+Organizational unit
+Faculty of Computer Science
+
+Level of study
+First-cycle engineering studies
+
+Mode of study
+Full-time
+
+Study profile
+General academic
+
+Academic year
+2025/2026
+
+Course code
+WIINFS.Ii8.08694.25
+
+Language of instruction
+Polish
+
+Course status
+Mandatory
+
+Course block
+Major-specific courses
+
+Research-related course
+Yes
+
+Course coordinator
 Marcin Kurdziel
-Prowadzący zajęcia
+
+Instructors
 Marcin Kurdziel, Rafał Grzeszczuk
-Okres
-Semestr 4
 
-Forma zaliczenia
-Zaliczenie
-Forma prowadzenia i godziny zajęć
-Wykład: 14
-Ćwiczenia laboratoryjne: 14
+Term
+Semester 4
 
-Liczba punktów ECTS
+Assessment form
+Pass
+
+Teaching format and contact hours
+Lecture: 14
+Laboratory classes: 14
+
+ECTS credits
 3
-Cele kształcenia dla przedmiotu
-C1 	Niniejszy kurs stanowi wprowadzenie do metod i algorytmów statystycznego uczenia maszynowego. Zasadniczy materiał kursu obejmuje wybrane modele dla problemów regresji i klasyfikacji danych. Zostaną one przedstawione zarówno w wariancie klasycznym jak i w ujęciu Bayesowskim. Materiał ten uzupełnia wprowadzenie do metod MC/MCMC i tzw. programowania probabilistycznego (ang. probabilistic programming).
-Efekty uczenia się dla przedmiotu
-Kod 	Efekty w zakresie 	Kierunkowe efekty uczenia się 	Metody weryfikacji
-Wiedzy – Student zna i rozumie:
-W1 	Student ma wiedzę z zakresu wnioskowania Bayesowskiego oraz wybranych metod estymacji parametrów modeli uczących się. 	INF1A_W07 	Aktywność na zajęciach, Odpowiedź ustna, Zaliczenie laboratorium
-W2 	Student ma wiedzę z zakresu wybranych modeli uczenia maszynowego dla problemów regresji i klasyfikacji danych. 	INF1A_W07 	Aktywność na zajęciach, Odpowiedź ustna, Zaliczenie laboratorium
-Umiejętności – Student potrafi:
-U1 	Student potrafi zaimplementować wybrane modele statystycznego uczenia maszynowego. 	INF1A_U05, INF1A_U07 	Wykonanie ćwiczeń laboratoryjnych, Zaliczenie laboratorium
-U2 	Student zna wybrane biblioteki przydatne w implementacji metod statystycznego uczenia maszynowego. 	INF1A_U05, INF1A_U07 	Wykonanie ćwiczeń laboratoryjnych, Zaliczenie laboratorium
-U3 	Student potrafi wytrenować wybrane modele statystycznego uczenia maszynowego i ocenić ich skuteczność. 	INF1A_U05, INF1A_U07 	Wykonanie ćwiczeń laboratoryjnych, Zaliczenie laboratorium
-Treści programowe zapewniające uzyskanie efektów uczenia się dla modułu zajęć
 
-Niniejszy kurs stanowi wprowadzenie do metod i algorytmów statystycznego uczenia maszynowego. Zasadniczy materiał kursu obejmuje wybrane modele dla problemów regresji i klasyfikacji danych. Zostaną one przedstawione zarówno w wariancie klasycznym jak i w ujęciu Bayesowskim. Materiał ten uzupełnia wprowadzenie do metod MC/MCMC i tzw. programowania probabilistycznego (ang. probabilistic programming).
-Nakład pracy studenta
-Rodzaje zajęć studenta 	Średnia liczba godzin* przeznaczonych na zrealizowane aktywności
-Wykład 	14
-Ćwiczenia laboratoryjne 	14
-Przygotowanie do zajęć 	25
-Samodzielne studiowanie tematyki zajęć 	25
-Dodatkowe godziny kontaktowe 	5
-Egzamin lub kolokwium zaliczeniowe 	2
-Łączny nakład pracy studenta
-Liczba godzin
-85
-Liczba godzin kontaktowych
-Liczba godzin
-28
+Course learning objectives
 
-* godzina (lekcyjna) oznacza 45 minut
-Treści programowe
-Lp. 	Treści programowe 	Efekty uczenia się dla przedmiotu 	Formy prowadzenia zajęć
-1.
+C1
+This course is an introduction to the methods and algorithms of statistical machine learning. The core material covers selected models for regression and data classification problems. These will be presented both in the classical framework and in the Bayesian framework. The course is supplemented with an introduction to MC/MCMC methods and so-called probabilistic programming.
 
+Learning outcomes for the course
+Code	Learning outcome area	Program learning outcomes	Verification methods
+Knowledge – The student knows and understands:
+W1	The student has knowledge of Bayesian inference and selected methods for estimating the parameters of learning models.	INF1A_W07	Class activity, oral response, laboratory pass
+W2	The student has knowledge of selected machine learning models for regression and data classification problems.	INF1A_W07	Class activity, oral response, laboratory pass
+Skills – The student is able to:
+U1	The student is able to implement selected statistical machine learning models.	INF1A_U05, INF1A_U07	Completion of laboratory exercises, laboratory pass
+U2	The student is familiar with selected libraries useful for implementing statistical machine learning methods.	INF1A_U05, INF1A_U07	Completion of laboratory exercises, laboratory pass
+U3	The student is able to train selected statistical machine learning models and evaluate their effectiveness.	INF1A_U05, INF1A_U07	Completion of laboratory exercises, laboratory pass
+Curriculum content ensuring the achievement of the learning outcomes for the module
 
-    Częstotliwościowa i Bayesowska interpretacja prawdopodobieństwa. Twierdzenie Bayesa. Wiarygodność, rozkład a priori i rozkład a posteriori. Wnioskowanie Bayesowskie. Pojęcie rozkładu sprzężonego. Przykład: model Beta-dwumianowy. (2h)
+This course is an introduction to the methods and algorithms of statistical machine learning. The core material covers selected models for regression and data classification problems. These will be presented both in the classical framework and in the Bayesian framework. The course is supplemented with an introduction to MC/MCMC methods and so-called probabilistic programming.
 
-    Wielowymiarowy rozkład normalny i jego własności. Parametryzacja: wartość przeciętna i macierz kowariancji. Rozkład łączny, brzegowy i warunkowy zmiennych normalnych. Liniowe modele Gaussowskie (2h)
+Student workload
+Type of student activity	Average number of hours* devoted to completed activities
+Lecture	14
+Laboratory classes	14
+Preparation for classes	25
+Independent study of course topics	25
+Additional contact hours	5
+Exam or final test	2
 
-    Modele liniowe dla problemu regresji. Regresja liniowa w ujęciu klasycznym (MLE). Bayesowska regresja liniowa. (2h)
+Total student workload
+Number of hours: 85
 
-    Wprowadzenie do procesów Gaussowskich. Regresja procesem Gaussowskim. (2h)
+Number of contact hours
+Number of hours: 28
 
-    Modele liniowe dla problemu klasyfikacji. Regresja logistyczna i wieloklasowa regresja logistyczna. Estymator MLE dla regresji logistycznej. Stochastyczny spadek wzdłuż gradientu. (2h)
+* one class hour means 45 minutes
 
-    Metody Monte Carlo we wnioskowaniu Bayesowskim. Algorytmy generowania próbek. Metody MC: importance sampling. Estymacja parametrów metodą Monte Carlo. (2h)
+Curriculum content
+No.	Curriculum content	Course learning outcomes	Teaching format
+1.	Frequentist and Bayesian interpretation of probability. Bayes’ theorem. Likelihood, prior distribution, and posterior distribution. Bayesian inference. The concept of a conjugate distribution. Example: the Beta-binomial model. (2h) Multivariate normal distribution and its properties. Parameterization: mean value and covariance matrix. Joint, marginal, and conditional distribution of normal variables. Linear Gaussian models. (2h) Linear models for regression problems. Linear regression in the classical approach (MLE). Bayesian linear regression. (2h) Introduction to Gaussian processes. Gaussian process regression. (2h) Linear models for classification problems. Logistic regression and multiclass logistic regression. MLE estimator for logistic regression. Stochastic gradient descent. (2h) Monte Carlo methods in Bayesian inference. Sampling algorithms. MC methods: importance sampling. Monte Carlo parameter estimation. (2h) MCMC methods: Metropolis–Hastings. Hierarchical Bayesian models. Generative model for observations. Probabilistic programming. (2h)	W1, W2	Lecture
+2.	Introduction to computational packages in Python. (2h) Multivariate normal distribution and linear Gaussian models. (2h) – Linear Gaussian model for the problem of estimating an object’s position. Linear regression. (2h) – Implementation of classical linear regression with the MLE estimator. – Implementation of Bayesian linear regression. Gaussian processes. (2h) – Implementation of Gaussian process regression. Logistic regression. (2h) – Implementation of multiclass logistic regression for images of handwritten digits. Inference using Monte Carlo methods. (2h) – Introduction to the TensorFlow Probability package. – Implementation of the Importance Sampling algorithm. Probabilistic programming in TensorFlow Probability. (2h) – Development of a generative model for a selected observation dataset. – Estimation of the parameters of the developed model and inference regarding the stated hypotheses about the observations.	U1, U2, U3	Laboratory classes
+Extended information
 
-    Metody MCMC: Metropolis-Hastings. Hierarchiczne modele Bayesowskie. Model generujący dla obserwacji. Programowanie probabilistyczne. (2h)
+Teaching methods and techniques:
+Laboratory classes, lecture
 
-	W1, W2 	Wykład
-2.
+Type of classes	Assessment methods	Course passing requirements
+Lecture	Class activity, oral response, laboratory pass	Passing the course requires obtaining a positive grade in laboratory classes.
+Laboratory classes	Completion of laboratory exercises, laboratory pass	Passing the course requires obtaining a positive grade in laboratory classes.
+Additional description
 
+Lectures for this course will be conducted remotely using the Webex/Teams platform.
 
-    Wprowadzenie do pakietów obliczeniowych w języku Python. (2h)
+All other classes will take place in classrooms. This also applies to assessments and exams held during examination sessions.
 
-    Wielowymiarowy rozkład normalny i liniowe modele Gaussowskie. (2h)
-    - Liniowy model Gaussowski dla zagadnienia estymacji położenia obiektu.
+Conditions and method of passing individual class components, including resit rules, as well as conditions for admission to the exam
+A condition for passing the laboratory classes is attendance and obtaining a grade of at least 3.0 in each laboratory.
+Additional quizzes may be conducted during laboratory classes to check knowledge of the course material. Passing the laboratory requires passing these quizzes, if they are conducted. A failing grade on a quiz may be improved during the final pass quiz at the end of the semester.
+After meeting the passing conditions, the positive laboratory grade is the average of the grades from assignments and quizzes, rounded to the nearest grade provided for in the study regulations.
+Final grade calculation
+A condition for obtaining a positive final grade is obtaining a positive grade in laboratory classes.
+The final grade is the laboratory class grade. A positive final grade may be increased in the case of significant student activity during lectures.
+Method and procedure for making up deficiencies resulting from student absence from classes
 
-    Regresji liniowa. (2h)
-    - Implementacja klasycznej regresji liniowej z estymatorem MLE.
-    - Implementacja Bayesowskiej regresji liniowej.
+Deficiencies in completing assignments (arising, for example, from an excused absence) should be made up during subsequent classes.
 
-    Procesy Gaussowskie. (2h)
-    - Implementacja regresji procesem Gaussowskim.
+Prerequisites and additional requirements
 
-    Regresja logistyczna. (2h)
-    - Implementacja wieloklasowej regresji logistycznej dla zdjęć ręcznie pisanych cyfr.
+Knowledge and skills covered in the course “Probability Theory and Statistics.”
 
-    Wnioskowanie metodami Monte Carlo. (2h)
-    - Wprowadzenie do pakietu TensorFlow Probability.
-    - Implementacja algorytmu Importance Sampling.
+Rules for participation in individual classes, including whether attendance is mandatory
 
-    Programowanie probabilistyczne w TensorFlow Probability. (2h)
-    - Opracowanie modelu generującego dla wskazanego zbioru obserwacji.
-    - Estymacja parametrów opracowanego modelu i wnioskowanie o postawionych hipotezach dotyczących obserwacji.
+Lecture: Audiovisual recording of the lecture requires the instructor’s consent.
 
-	U1, U2, U3 	Ćwiczenia laboratoryjne
-Informacje rozszerzone
-Metody i techniki kształcenia :
+Laboratory classes: Students complete laboratory exercises in accordance with the materials provided by the instructor. Attendance in laboratory classes is mandatory.
 
-Ćwiczenia laboratoryjne, Wykład
-Rodzaj zajęć 	Metody zaliczenia 	Warunki zaliczenia przedmiotu
-Wykład 	Aktywność na zajęciach, Odpowiedź ustna, Zaliczenie laboratorium 	Zaliczenie przedmiotu wymaga uzyskania oceny pozytywnej z ćwiczeń laboratoryjnych.
-Ćwiczenia laboratoryjne 	Wykonanie ćwiczeń laboratoryjnych, Zaliczenie laboratorium 	Zaliczenie przedmiotu wymaga uzyskania oceny pozytywnej z ćwiczeń laboratoryjnych.
-Dodatkowy opis
+Literature
 
-Wykłady z przedmiotu będą prowadzone w sposob zdalny z wykorzystaniem platformy Webex/Teams.
+Required
 
-Pozostałe zajęcia będą odbywać się w salach. Dotyczy to także zaliczeń i egzaminów odbywajacych się w sesjach egzaminacyjnych.
-Warunki i sposób zaliczenia poszczególnych form zajęć, w tym zasady zaliczeń poprawkowych, a także warunki dopuszczenia do egzaminu
+Kevin P. Murphy, Machine Learning: A Probabilistic Perspective, MIT Press, 2012
 
-    Warunkiem zaliczenia ćwiczeń laboratoryjnych jest uczestnictwo w zajęciach i uzyskanie oceny minimum 3.0 z każdego labolatorium.
-    W ramach zajęć laboratoryjnych mogą być przeprowadzone dodatkowe kolokwia sprawdzające wiedzę z przedmiotu. Warunkiem zaliczenia laboratorium jest zdanie tych kolokwiów (jeśli będą przeprowadzone). Ocenę negatywną z kolokwium można poprawić na kolokwium zaliczeniowym pod koniec semestru.
-    Po spełnieniu warunków zaliczenia, pozytywną oceną z ćwiczeń laboratoryjnych jest średnia ocen z zadań i kolokwiów zaokrąglona do najbliższej oceny przewidzianej regulaminem studiów.
+Additional
 
-Sposób obliczania oceny końcowej
+Christopher M. Bishop, Pattern Recognition and Machine Learning, Springer, 2007
+Research and publications
 
-    Warunkiem uzyskania pozytywnej oceny końcowej jest uzyskanie pozytywnej oceny z ćwiczeń labolatoryjnych.
-    Oceną końcową jest ocena z ćwiczeń laboratoryjnych. Pozytywna ocena końcowa może zostać podwyższona w przypadku znaczącej aktywności studenta na wykładzie.
+Publications
 
-Sposób i tryb wyrównywania zaległości powstałych wskutek nieobecności studenta na zajęciach
-
-Zaległości w realizacji zadań (powstałe na przykład w skutek usprawiedliwionej nieobecności) powinny być nadrobione w ramach kolejnych zajęć.
-Wymagania wstępne i dodatkowe
-
-Wiedza i umiejętności w zakresie przedmiotu "Rachunek prawdopodobieństwa i statystyka"
-
-Zasady udziału w poszczególnych zajęciach, ze wskazaniem, czy obecność studenta na zajęciach jest obowiązkowa
-
-Wykład: Rejestracja audiowizualna wykładu wymaga zgody prowadzącego.
-
-Ćwiczenia laboratoryjne: Studenci wykonują ćwiczenia laboratoryjne zgodnie z materiałami udostępnionymi przez prowadzącego. Obecność na ćwiczeniach laboratoryjnych jest obowiązkowa.
-Literatura
-Obowiązkowa
-
-    Kevin P. Murphy "Machine Learning: A probabilistic perspective", MIT Press, 2012
-
-Dodatkowa
-
-    Christopher M. Bishop "Pattern Recognition and Machine Learning", Springer, 2007
-
-Badania i publikacje
-Publikacje
-
-    M. Jamroż, M. Kurdziel, M. Opala. "A Bayesian nonparametrics view into deep representations." Advances in Neural Information Processing Systems 33 (2020): 1440-1450.
-    K. Grzegorczyk, M. Kurdziel. ”Disambiguated Skip-gram model.” In: Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, EMNLP2018, pp 1445–1454, 2018
-    P.I. Wójcik, M. Kurdziel “Training neural networks on high-dimensional data using random projection.” Pattern Analysis and Applications, https://doi.org/10.1007/s10044-018-0697-0, 2018
-    K. Grzegorczyk, M. Kurdziel “Binary Paragraph Vectors.” In: Proceedings of the 2nd Workshop on Representation Learning for NLP, ACL2017, pp 121-130, 2017
+M. Jamroż, M. Kurdziel, M. Opala. “A Bayesian nonparametrics view into deep representations.” Advances in Neural Information Processing Systems 33 (2020): 1440–1450.
+K. Grzegorczyk, M. Kurdziel. “Disambiguated Skip-gram model.” In: Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, EMNLP 2018, pp. 1445–1454, 2018.
+P.I. Wójcik, M. Kurdziel. “Training neural networks on high-dimensional data using random projection.” Pattern Analysis and Applications, https://doi.org/10.1007/s10044-018-0697-0
+, 2018.
+K. Grzegorczyk, M. Kurdziel. “Binary Paragraph Vectors.” In: Proceedings of the 2nd Workshop on Representation Learning for NLP, ACL 2017, pp. 121–130, 2017.

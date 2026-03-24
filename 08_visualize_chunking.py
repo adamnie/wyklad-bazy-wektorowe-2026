@@ -9,10 +9,10 @@ st.set_page_config(page_title="Chunking Strategies Demo", page_icon="✂️", la
 st.title("Chunking Strategies Demo")
 
 st.markdown("""
-This application demonstrates three different text chunking strategies using documents from the `data/` directory:
-- **🔲 Fixed Size**: Strict character-limit splits (e.g., exactly 100 chars).
-- **🌳 Recursive**: Meaning-preserving splits (falling back from paragraphs to sentences).
-- **🪟 Sliding Window**: Overlapping sentences (e.g., chunks of 3 sentences, overlap of 1) to show context shifts.
+This application demonstrates three different text chunking strategies using documents from the `data/` directory. All sizes are tuned to output chunks of roughly **250 characters** for a fair comparison:
+- **🔲 Fixed Size**: Strict character-limit splits (exactly 250 chars).
+- **🌳 Recursive**: Meaning-preserving splits (falling back from paragraphs to sentences, up to 250 chars).
+- **🪟 Sliding Window**: Overlapping sentences (chunks of ~3 sentences, overlap of 1) to show context shifts.
 """)
 
 def chunk_fixed_size(text, chunk_size=120):
@@ -36,6 +36,7 @@ def chunk_sliding_window(text, window_size=3, overlap=1):
         chunks.append(" ".join(chunk_sentences))
         i += step
     return chunks
+
 
 def chunk_recursive(text, max_length=150):
     # A simplified recursive chunker
@@ -79,9 +80,9 @@ def setup_databases(_model):
                     content = f.read()
                 
                 # generate chunks for this file
-                f_chunks_fixed = chunk_fixed_size(content, 120)
+                f_chunks_fixed = chunk_fixed_size(content, 250)
                 f_chunks_window = chunk_sliding_window(content, window_size=3, overlap=1)
-                f_chunks_recursive = chunk_recursive(content, 120)
+                f_chunks_recursive = chunk_recursive(content, 250)
                 
                 # add filename info to display
                 all_chunks_fixed.extend([{"text": c, "filename": filename} for c in f_chunks_fixed])

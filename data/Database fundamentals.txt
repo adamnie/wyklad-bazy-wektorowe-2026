@@ -1,0 +1,256 @@
+Database Fundamentals
+Course Description Card
+Basic Information
+
+Degree program
+Computer Science (joint program – Faculty of Computer Science and Faculty of Electrical Engineering, Automatics, Computer Science and Biomedical Engineering)
+
+Specialization
+—
+
+Organizational unit
+Faculty of Computer Science
+
+Level of study
+First-cycle engineering studies
+
+Mode of study
+Full-time
+
+Study profile
+General academic
+
+Academic year
+2025/2026
+
+Course code
+WIINFS.Ii4.01070.25
+
+Language of instruction
+Polish
+
+Course status
+Mandatory
+
+Course block
+Major courses
+
+Course related to scientific research
+Yes
+
+Course coordinator
+Anna Zygmunt
+
+Instructors
+Anna Zygmunt, Robert Marcjan, Tomasz Pełech-Pilichowski
+
+Period
+Semester 3
+
+Assessment form
+Exam
+
+Teaching format and contact hours
+Lecture: 28
+Laboratory classes: 28
+
+ECTS credits
+4
+
+Course objectives
+
+C1 Presentation of the fundamentals of database theory, with particular emphasis on the relational model. Presentation of the complete process of database structure design and implementation.
+
+Learning outcomes for the course
+
+Code – Learning outcomes – Program learning outcomes – Verification methods
+
+Knowledge – The student knows and understands:
+
+W1 The student knows and understands the basic concepts of databases.
+Program learning outcomes: INF1A_W04
+Verification methods: Class activity, completion of exercises, completion of project work, test, project, exam, report, oral response, laboratory pass
+
+W2 The student knows the role of logical database models and understands their importance for building database systems.
+Program learning outcomes: INF1A_W04, INF1A_W09
+Verification methods: Class activity, completion of project work, project, exam, report, laboratory pass
+
+W3 The student knows the principles of implementing the individual stages of the database system life cycle.
+Program learning outcomes: INF1A_W02
+Verification methods: Completion of project work, project, exam, report, laboratory pass
+
+Skills – The student is able to:
+
+U1 The student can design and implement the database access layer.
+Program learning outcomes: INF1A_U04, INF1A_U05, INF1A_U07
+Verification methods: Completion of project work, project, report, laboratory pass
+
+U2 The student can create a correct relational database schema (consistent with normal forms) according to specified requirements and implement it using SQL commands.
+Program learning outcomes: INF1A_U03, INF1A_U04, INF1A_U06
+Verification methods: Class activity, completion of project work, project, report, laboratory pass
+
+U3 The student can design and implement basic utility functions of database systems.
+Program learning outcomes: INF1A_U03, INF1A_U04, INF1A_U06, INF1A_U07
+Verification methods: Class activity, completion of project work, project, report, laboratory pass
+
+U4 The student can use SQL commands to obtain the required data.
+Program learning outcomes: INF1A_U03, INF1A_U07
+Verification methods: Completion of exercises, completion of project work, test, report, oral response, laboratory pass
+
+Social competences – The student is ready to:
+
+K1 The student understands the division of roles in the database system life cycle and their importance from the point of view of system quality.
+Program learning outcomes: INF1A_K04
+Verification methods: Completion of project work, project
+
+Curriculum content ensuring achievement of the learning outcomes for the course module
+
+Presentation of the fundamentals of database theory, with particular emphasis on the relational model. Presentation of the complete process of database structure design and implementation.
+
+Student workload
+
+Student activity type – Average number of hours devoted to completed activities
+
+Lecture – 28
+Laboratory classes – 28
+Participation in classes/practical training – 30
+Preparation of project, presentation, written paper, report – 10
+Independent study of course topics – 15
+Additional contact hours – 5
+Exam or final test – 2
+
+Total student workload
+Number of hours: 118
+
+Number of contact hours
+Number of hours: 56
+
+* one class hour means 45 minutes
+
+Course content
+
+No. – Course content – Learning outcomes for the course – Type of classes
+
+Introduction to the relational model.
+Learning outcomes: W1, W2
+Type of classes: Lecture
+Modeling reality – conceptual model and principles of its construction (ER and EER model).
+Learning outcomes: W1, W2, W3
+Type of classes: Lecture
+Principles of correct construction of the relational logical model and the schema normalization process.
+Learning outcomes: W2, U2
+Type of classes: Lecture
+Integrity constraints and views.
+Learning outcomes: W1, W3
+Type of classes: Lecture
+Procedural constructs and triggers.
+Learning outcomes: W1, W3, U1
+Type of classes: Lecture
+Authorization in database systems.
+Learning outcomes: W1
+Type of classes: Lecture
+Physical organization of databases.
+Learning outcomes: W1
+Type of classes: Lecture
+The role of indexes and their types.
+Learning outcomes: W1
+Type of classes: Lecture
+Fundamentals of transaction processing and concurrency control.
+Learning outcomes: W1
+Type of classes: Lecture
+Overview of selected architectural models.
+Learning outcomes: W1
+Type of classes: Lecture
+Learning SQL query language commands (DDL and DML).
+Learning outcomes: U2
+Type of classes: Laboratory classes
+Designing logical models of relational databases.
+Learning outcomes: U2, K1
+Type of classes: Laboratory classes
+Carrying out the normalization process of relational database schemas.
+Learning outcomes: U2
+Type of classes: Laboratory classes
+Designing and implementing basic and advanced database integrity constraints.
+Learning outcomes: U2, U4
+Type of classes: Laboratory classes
+Implementing the database access layer (views, procedures, functions, triggers).
+Learning outcomes: U1, U3, U4
+Type of classes: Laboratory classes
+Implementing selected methods of database access authorization.
+Learning outcomes: U3, U4
+Type of classes: Laboratory classes
+Extended information
+
+Teaching methods and techniques:
+Course lectures will be conducted remotely using the MS Teams platform. The remaining classes will take place in classrooms; discussion, group work, lecture, distance learning.
+
+Type of classes – Assessment methods – Course completion requirements
+
+Lecture
+Assessment method: Exam
+Completion requirement: Positive exam grade. Grades from all exam sittings are taken into account; the arithmetic mean is calculated.
+
+Laboratory classes
+Assessment methods: Class activity, completion of exercises, completion of project work, test, project, report, oral response, laboratory pass
+Completion requirement: The laboratory grade is calculated according to the formula: 0.5 × SQL test + 0.5 × project assignment, assuming that SQL test ≥ 3.0 and project assignment ≥ 3.0. Class activity is also taken into account, with the possibility of increasing the grade by 0.5 (rules will be provided during the first lecture).
+
+Additional description
+
+Course lectures will be conducted remotely using the Webex or MS Teams platform. The remaining classes will take place in classrooms. This also applies to course assessments and examinations held during exam sessions.
+
+Conditions and method of passing individual forms of classes, including resit rules, as well as conditions for admission to the exam
+
+The laboratory grade is calculated according to the formula: 0.5 × SQL test + 0.5 × project assignment, assuming that SQL test ≥ 3.0 and project assignment ≥ 3.0. Class activity is also taken into account, with the possibility of increasing the grade by 0.5 (rules will be provided during the first lecture). The basic date for passing the laboratory is the last class of the semester. In accordance with the study regulations, the student has the right to two resit attempts. A positive laboratory grade is required for admission to the exam. The student is entitled to two exam resit dates. Grades from all sittings are included in the final grade.
+
+Method of calculating the final grade
+
+To obtain a positive final grade, it is necessary to receive a positive grade both in the laboratory and in the exam. The average of the laboratory grade and all exam grades is calculated. The final grade is determined according to the following rule:
+
+if avg > 4.75 then final grade := 5.0
+else if avg > 4.25 then final grade := 4.5
+else if avg > 3.75 then final grade := 4.0
+else if avg > 3.25 then final grade := 3.5
+else if avg >= 3.0 then final grade := 3.0
+else final grade := 2.0
+
+Method and procedure for making up for absences
+
+One unexcused absence is allowed; each additional one results in lowering the final grade by one grade step; more than 3 unexcused absences result in failure of the course.
+
+Preliminary and additional requirements
+
+Knowledge of the courses “Algorithms and Data Structures” and “Imperative Programming” is required.
+
+Rules for participation in individual classes, including whether attendance is mandatory
+
+Lecture:
+Mandatory attendance: No
+Rules for participation: Students participate in classes while learning subsequent course content according to the course syllabus. Students should ask questions and clarify doubts on an ongoing basis. Audio-visual recording of the lecture requires the instructor’s consent.
+
+Laboratory classes:
+Mandatory attendance: Yes
+Rules for participation: Students perform laboratory exercises in accordance with materials provided by the instructor. The student is obliged to prepare for the exercise being carried out, which is verified through class activity and the test. Passing the module is possible only after passing all laboratory classes.
+
+Literature
+Required
+Abraham Silberschatz, Henry F. Korth, S. Sudarshan, Database System Concepts, 7th Edition, McGraw-Hill, 2019
+Ramez Elmasri, Shamkant B. Navathe, Wprowadzenie do systemów baz danych [Introduction to Database Systems], 7th Edition, Helion, 2019
+Jeffrey D. Ullman, Jennifer Widom, Podstawowy kurs systemów baz danych [Fundamentals of Database Systems], 3rd Edition, Helion, 2011
+Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom, Systemy baz danych. Kompletny podręcznik [Database Systems: The Complete Book], 2nd Edition, Helion, 2011
+Prof. Wilfried Lemahieu, Prof. Seppe vanden Broucke, Prof. Bart Baesens, Principles of Database Management: The Practical Guide to Storing, Managing and Analyzing Big and Small Data, Cambridge University Press, 2018
+Wilfried Lemahieu, Seppe van den Broucke, Bart Baesens, Principles of Database Management: The Practical Guide to Storing, Managing and Analyzing Big and Small Data, Cambridge University Press, 2018
+Additional
+Michael J. Hernandez, Projektowanie baz danych dla każdego. Przewodnik krok po kroku [Database Design for Mere Mortals: A Hands-On Guide], Helion, 2014
+Jeffrey D. Ullman, Jennifer Widom, Implementacja systemów baz danych [Implementation of Database Systems], “Computer Science Classics” series, WNT, 2003
+C.J. Date, Wprowadzenie do baz danych [An Introduction to Database Systems], WNT, Warsaw 2000
+Database MOOC, e.g. http://cs.stanford.edu/people/widom/DB-mooc.html
+Guy Harrison, NoSQL, NewSQL i BigData. Bazy danych następnej generacji [NoSQL, NewSQL and Big Data: Next-Generation Databases], Helion, 2019
+John L. Viescas, Douglas J. Steele, Ben G. Clothier, Mistrzowski SQL. 61 technik pisania wydajnego kodu SQL [SQL Queries for Mere Mortals / Mastering SQL: 61 Techniques for Writing Efficient SQL Code], Helion, 2017
+Miguel Cebollero, Michael Coles, Jay Natarajan, T-SQL dla zaawansowanych. Przewodnik programisty [Advanced T-SQL: Programmer’s Guide], Helion, 2016
+Research and publications
+Publications
+New approach to storing dynamic data in relational databases using JSON / Mateusz PIECH, Robert MARCJAN // Computer Science; ISSN 1508-2806. — 2018, vol. 19, no. 1, pp. 5–22.
+Przetwarzanie dokumentów XML na podstawie modelu quasi-relacyjnego i języka SQLxD — Processing XML documents on the basis of quasi-relational model and SQLxD language / Robert MARCJAN, Jakub Wyrostek // Studia Informatica; ISSN 1642-0489. — Former title: Zeszyty Naukowe Politechniki Śląskiej. Seria Informatyka; ISSN 0208-7286. — 2011, vol. 32, no. 2A, pp. 111–120.
+Realization of a system of efficient querying of hierarchical data transformed into a quasi-relational model / Adam Furmanek, Jakub Tokaj, Robert MARCJAN, Leszek SIWIK // Computer Science; ISSN 1508-2806. — 2016, vol. 17, no. 3, pp. 353–369.
+Analiza otwartych źródeł internetowych z zastosowaniem metodologii sieci społecznych — [Analysis of open Internet sources using social network methodology] / Anna ZYGMUNT, Jarosław KOŹLAK, Edward NAWARECKI // In: Biały wywiad: otwarte źródła informacji – wokół teorii i praktyki / ed. Wojciech Filipkowski and Wiesław Mądrzejowski. — Warsaw: C. H. Beck, 2012.
+GEVi: context-based graphical analysis of social group dynamics / Bogdan GLIWA, Anna ZYGMUNT // Social Network Analysis and Mining; ISSN 1869-5450. — 2014, vol. 4, iss. 1, art. 160, pp. 1–15.

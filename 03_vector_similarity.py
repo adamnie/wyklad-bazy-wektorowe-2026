@@ -3,9 +3,9 @@ from sentence_transformers import SentenceTransformer, util
 # https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
-reference_text = "Lecture on vector database and semantic search"
-text_A = "Textual algorithms"
-text_B = "Object oriented programming concepts"
+reference_text = "Whiskas"
+text_A = "Dog"
+text_B = "Cat"
 
 reference = model.encode(reference_text)
 embedding_A = model.encode(text_A)

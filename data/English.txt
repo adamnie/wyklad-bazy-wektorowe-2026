@@ -1,146 +1,266 @@
+English B-2 – compulsory course, 135 hours – semester 1/3
+Course description card
 
-Elements of statistical machine learning
-Course description sheet
 Basic information
 
-Field of study
-    Computer Science
-Major
-    -
-Organisational unit
-    Faculty of Computer Science
-Study level
-    First-cycle (engineer) programme
-Form of study
-    Full-time studies
-Profile
-    General academic
+Degree programme
+Computer Science (joint programme – WI and WEAIiIB)
 
-Didactic cycle
-    2025/2026
+Specialization
+–
+
+Organizational unit
+Faculty of Computer Science
+
+Level of study
+First-cycle engineering studies
+
+Mode of study
+Full-time
+
+Study profile
+General academic
+
+Academic cycle
+2025/2026
+
 Course code
-    WIINFS.Ii8.08694.25
-Lecture languages
-    Polish
-Mandatoriness
-    Obligatory
-Block
-    Core Modules
+WIINFS.IiE.05075.25
+
+Language of instruction
+Polish
+
+Course status
+Elective
+
+Course block
+Foreign languages (language classes)
+
 Course related to scientific research
-    Yes
+No
 
 Course coordinator
-Marcin Kurdziel
-Lecturer
-Marcin Kurdziel, Rafał Grzeszczuk
+– Foreign Language Centre
+
+Instructors
+– Foreign Language Centre
+
 Period
+
+Semester 2
+
+Assessment form
+Pass
+
+Type and number of class hours
+Language classes: 45
+
+ECTS credits
+0
+
+Period
+
+Semester 3
+
+Assessment form
+Pass
+
+Type and number of class hours
+Language classes: 45
+
+ECTS credits
+0
+
+Period
+
 Semester 4
 
-Method of verification of the learning outcomes
-Completing the classes
-Activities and hours
-Lectures: 14
-Laboratory classes: 14
+Assesment form
+Exam
 
-Number of ECTS credits
-3
-Goals
-C1 	Niniejszy kurs stanowi wprowadzenie do metod i algorytmów statystycznego uczenia maszynowego. Zasadniczy materiał kursu obejmuje wybrane modele dla problemów regresji i klasyfikacji danych. Zostaną one przedstawione zarówno w wariancie klasycznym jak i w ujęciu Bayesowskim. Materiał ten uzupełnia wprowadzenie do metod MC/MCMC i tzw. programowania probabilistycznego (ang. probabilistic programming).
-Course's learning outcomes
-Code 	Outcomes in terms of 	Learning outcomes prescribed to a field of study 	Methods of verification
-Knowledge – Student knows and understands:
-W1 	Student ma wiedzę z zakresu wnioskowania Bayesowskiego oraz wybranych metod estymacji parametrów modeli uczących się. 	INF1A_W07 	Activity during classes, Oral answer, Completion of laboratory classes
-W2 	Student ma wiedzę z zakresu wybranych modeli uczenia maszynowego dla problemów regresji i klasyfikacji danych. 	INF1A_W07 	Activity during classes, Oral answer, Completion of laboratory classes
-Skills – Student can:
-U1 	Student potrafi zaimplementować wybrane modele statystycznego uczenia maszynowego. 	INF1A_U05, INF1A_U07 	Execution of laboratory classes, Completion of laboratory classes
-U2 	Student zna wybrane biblioteki przydatne w implementacji metod statystycznego uczenia maszynowego. 	INF1A_U05, INF1A_U07 	Execution of laboratory classes, Completion of laboratory classes
-U3 	Student potrafi wytrenować wybrane modele statystycznego uczenia maszynowego i ocenić ich skuteczność. 	INF1A_U05, INF1A_U07 	Execution of laboratory classes, Completion of laboratory classes
+Type and number of class hours
+Language classes: 45
+
+ECTS credits
+5
+
+Learning outcomes for the course
+Code	Learning outcomes	Programme learning outcomes	Verification methods
+Skills – The student is able to:			
+U1	Write a clear informative and argumentative text on general and professional topics, conduct correspondence typical of the workplace, and use teaching materials independently.	INF1A_U02	Completion of exercises, exam, written assignments done in class
+U2	Understand longer, even complex, written and spoken statements, e.g. lectures and presentations, provided they concern professional issues and current affairs, and interpret the information obtained.	INF1A_U02	Class activity, participation in discussion, completion of exercises, test, exam, result of the final test
+U3	Present their conclusions and opinions on general, academic, and professional topics clearly in written and spoken form.	INF1A_U02	Class activity, participation in discussion, written assignments done in class
+U4	Use grammatical structures, phraseology, and vocabulary enabling understanding of general texts, texts describing contemporary socio-economic phenomena, as well as academic and professional texts, and allowing fairly fluent and spontaneous communication in academic and professional environments.	INF1A_U02	Class activity, participation in discussion, completion of exercises, test, exam, result of the final test
+U5	Prepare an oral presentation on academic and professional topics and participate fairly fluently and spontaneously in discussions, including in the professional environment.	INF1A_U02	Class activity, participation in discussion, presentation
+Curriculum content ensuring achievement of the learning outcomes for the module
+
+English B-2 – compulsory course, 135 hours – semester 1/3
+
 Student workload
-Activity form 	Average amount of hours* needed to complete each activity form
-Lectures 	14
-Laboratory classes 	14
-Preparation for classes 	25
-Realization of independently performed tasks 	25
-Contact hours 	5
-Examination or final test/colloquium 	2
-Student workload
-Hours
-85
-Workload involving teacher
-Hours
-28
+Semester 2
+Type of student activity	Average number of hours* spent on completed activities
+Language classes	45
 
-* hour means 45 minutes
-Program content
-No. 	Program content 	Course's learning outcomes 	Activities
-1.
+Total student workload
+Number of hours: 45
 
+Contact hours
+Number of hours: 45
 
-    Częstotliwościowa i Bayesowska interpretacja prawdopodobieństwa. Twierdzenie Bayesa. Wiarygodność, rozkład a priori i rozkład a posteriori. Wnioskowanie Bayesowskie. Pojęcie rozkładu sprzężonego. Przykład: model Beta-dwumianowy. (2h)
+* one class hour means 45 minutes
 
-    Wielowymiarowy rozkład normalny i jego własności. Parametryzacja: wartość przeciętna i macierz kowariancji. Rozkład łączny, brzegowy i warunkowy zmiennych normalnych. Liniowe modele Gaussowskie (2h)
+Semester 3
+Type of student activity	Average number of hours* spent on completed activities
+Language classes	45
 
-    Modele liniowe dla problemu regresji. Regresja liniowa w ujęciu klasycznym (MLE). Bayesowska regresja liniowa. (2h)
+Total student workload
+Number of hours: 45
 
-    Wprowadzenie do procesów Gaussowskich. Regresja procesem Gaussowskim. (2h)
+Contact hours
+Number of hours: 45
 
-    Modele liniowe dla problemu klasyfikacji. Regresja logistyczna i wieloklasowa regresja logistyczna. Estymator MLE dla regresji logistycznej. Stochastyczny spadek wzdłuż gradientu. (2h)
+* one class hour means 45 minutes
 
-    Metody Monte Carlo we wnioskowaniu Bayesowskim. Algorytmy generowania próbek. Metody MC: importance sampling. Estymacja parametrów metodą Monte Carlo. (2h)
+Semester 4
+Type of student activity	Average number of hours* spent on completed activities
+Language classes	45
+Preparation for classes	8
+Independent study of class topics	5
+Exam or final credit test	2
 
-    Metody MCMC: Metropolis-Hastings. Hierarchiczne modele Bayesowskie. Model generujący dla obserwacji. Programowanie probabilistyczne. (2h)
+Total student workload
+Number of hours: 60
 
-	W1, W2 	Lectures
-2.
+Contact hours
+Number of hours: 45
 
+* one class hour means 45 minutes
 
-    Wprowadzenie do pakietów obliczeniowych w języku Python. (2h)
+Curriculum content
+No.	Curriculum content	Course learning outcomes	Forms of classes
+1.	English B-2 – compulsory course, 135 hours. Classes within the module are conducted in the form of practical classes (135 hours).	U1, U2, U3, U4, U5	Language classes
+Grammar topics:
+Present Simple
+Present Continuous
+Past Simple
+Past Continuous
+Present Perfect
+Present Perfect Continuous
+Future Simple
+Past Perfect Simple
+the expression “be going to”
+countable and uncountable nouns
+adjectives and adverbs
+verb forms – -ing form and infinitive
+modal verbs
+conditionals I, II, III
+adverbial clauses of time
+relative clauses
+conjunctions
+passive voice
+reported speech
+word formation
+Topics and vocabulary:
 
-    Wielowymiarowy rozkład normalny i liniowe modele Gaussowskie. (2h)
-    - Liniowy model Gaussowski dla zagadnienia estymacji położenia obiektu.
+Introduction and practice in various contexts of vocabulary and phraseology related to the following topics:
 
-    Regresji liniowa. (2h)
-    - Implementacja klasycznej regresji liniowej z estymatorem MLE.
-    - Implementacja Bayesowskiej regresji liniowej.
+studies: description of the faculty and the nature of studies
+career plans and job searching
+qualifications and personality traits
+private and professional interests
+technological progress and innovations
+latest professional achievements
+company structure and functioning
+regulations and instructions
+employee professional development
+job responsibilities
+finance
+describing charts and presenting trends
+phenomena and trends in the contemporary world
+multicultural society
+ethics at university and in the workplace
+Language functions:
+introducing oneself, expressions used for greeting and saying goodbye
+receiving a guest at the university and in a company
+conducting a conversation at a meeting, party, conference
+making arrangements
+telephone conversations
+expressing opinions and suggestions
+giving advice
+inviting and accepting invitations
+offering help and making requests
+asking for information
+active participation in discussions on academic and professional topics
+giving presentations
+negotiating
+describing with the use of numbers and units of measurement and weight
+Other skills:
+writing emails
+writing letters
+preparing descriptions
+writing argumentative texts
+Extended information
+Semester 2
 
-    Procesy Gaussowskie. (2h)
-    - Implementacja regresji procesem Gaussowskim.
+Teaching methods and techniques:
+Problem-based learning, group work, case study, discussion
 
-    Regresja logistyczna. (2h)
-    - Implementacja wieloklasowej regresji logistycznej dla zdjęć ręcznie pisanych cyfr.
+Type of classes	Assessment methods	Course completion requirements
+Language classes	Class activity, participation in discussion, completion of exercises, test, exam, result of the final test, written assignments done in class, presentation	
+Semester 3
 
-    Wnioskowanie metodami Monte Carlo. (2h)
-    - Wprowadzenie do pakietu TensorFlow Probability.
-    - Implementacja algorytmu Importance Sampling.
+Teaching methods and techniques:
+Discussion, group work, problem-based learning, case study
 
-    Programowanie probabilistyczne w TensorFlow Probability. (2h)
-    - Opracowanie modelu generującego dla wskazanego zbioru obserwacji.
-    - Estymacja parametrów opracowanego modelu i wnioskowanie o postawionych hipotezach dotyczących obserwacji.
+Type of classes	Assessment methods	Course completion requirements
+Language classes	Class activity, participation in discussion, completion of exercises, test, exam, result of the final test, written assignments done in class, presentation	
+Semester 4
 
-	U1, U2, U3 	Laboratory classes
-Extended information/Additional elements
-Teaching methods and techniques :
+Teaching methods and techniques:
+Discussion, group work, problem-based learning, case study
 
-Ćwiczenia laboratoryjne, Lecture
-Activities 	Methods of verification 	Credit conditions
-Lectures 	Activity during classes, Oral answer, Completion of laboratory classes 	Zaliczenie przedmiotu wymaga uzyskania oceny pozytywnej z ćwiczeń laboratoryjnych.
-Lab. classes 	Execution of laboratory classes, Completion of laboratory classes 	Zaliczenie przedmiotu wymaga uzyskania oceny pozytywnej z ćwiczeń laboratoryjnych.
-Rules of participation in given classes, indicating whether student presence at the lecture is obligatory
+Type of classes	Assessment methods	Course completion requirements
+Language classes	Class activity, participation in discussion, completion of exercises, test, exam, result of the final test, written assignments done in class, presentation	
+Conditions and method of passing individual forms of classes, including rules for resits and conditions for admission to the exam
 
-Lectures: Studenci uczestniczą w zajęciach poznając kolejne treści nauczania zgodnie z syllabusem przedmiotu. Studenci winni na bieżąco zadawać pytania i wyjaśniać wątpliwości. Rejestracja audiowizualna wykładu wymaga zgody prowadzącego. Laboratory classes: Studenci wykonują ćwiczenia laboratoryjne zgodnie z materiałami udostępnionymi przez prowadzącego. Student jest zobowiązany do przygotowania się w przedmiocie wykonywanego ćwiczenia, co może zostać zweryfikowane kolokwium w formie ustnej lub pisemnej. Zaliczenie zajęć odbywa się na podstawie zaprezentowania rozwiązania postawionego problemu.
+A condition for passing is obtaining a positive grade in all tests conducted during the semester. If a student receives a failing grade, they have the right to retake it under the following rules:
+
+Retaking a failing grade obtained on the first date results in the failing grade being crossed out and replaced with the passing grade, which will count toward the average.
+Retaking a grade obtained on the second date results in the arithmetic mean of the two grades being entered in the grade sheet.
+The average partial grade, in the event of passing the test, may not be lower than 3.0.
+An unexcused absence from a test results in the loss of that attempt.
+Each student has the right to two resit tests.
+Tests may take place at intervals of no less than 2 days.
+A student has the right to see their assessed work and ask for an explanation of the grading method and the correct answers; however, they are not allowed to photograph or otherwise copy the test materials.
+
+The student is required to have the language course textbook and complete homework assignments. Lack of the required materials (textbook, homework) results in the note “unprepared” being entered in the attendance record. The instructor has the right to refuse to pass a student who was unprepared for more than half of the classes, even if they passed all tests.
+
+The student receives additional grades for class activity, optional homework, presentations, and other activities benefiting their class group.
+
+A condition for admission to the exam is passing the compulsory semesters of the language course.
+
+Method of calculating the final grade
+
+The final grade for the language course is determined as the arithmetic mean of all grades obtained by the student from passing the individual semesters and the foreign language exam.
+
+Method and procedure for making up deficiencies caused by the student’s absence from classes
+
+The student should attend all classes of their language group. In the event of an absence caused by illness, the student should provide a medical certificate no later than 14 days after the absence justified by the certificate. In the event of an unexcused absence, the student should contact the instructor, who will individually determine the method of making up the absence for each student.
+
+The absence must be made up within 14 days from the date of the absence. Two unexcused absences from classes do not require being made up. If the number of unexcused absences exceeds 7, the instructor should refuse to pass the semester, even if some of them had previously been made up.
+
+Initial and additional requirements
+
+Knowledge of English at at least A-2 level.
+
+Rules for participation in individual classes, including whether attendance is compulsory
+
+Language classes: Students attending the classes are required to prepare as indicated each time by the instructor (e.g. in the form of task sets). The assessment of the student’s work may be based on oral or written statements in the form of a test, which, according to the AGH study regulations, translates into the final grade for this form of classes.
+
 Literature
-Obligatory
-
-    Kevin P. Murphy "Machine Learning: A probabilistic perspective", MIT Press, 2012
-
-Optional
-
-    Christopher M. Bishop "Pattern Recognition and Machine Learning", Springer, 2007
-
-Scientific research and publications
-Publications
-
-    M. Jamroż, M. Kurdziel, M. Opala. "A Bayesian nonparametrics view into deep representations." Advances in Neural Information Processing Systems 33 (2020): 1440-1450.
-    K. Grzegorczyk, M. Kurdziel. ”Disambiguated Skip-gram model.” In: Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, EMNLP2018, pp 1445–1454, 2018
-    P.I. Wójcik, M. Kurdziel “Training neural networks on high-dimensional data using random projection.” Pattern Analysis and Applications, https://doi.org/10.1007/s10044-018-0697-0, 2018
-    K. Grzegorczyk, M. Kurdziel “Binary Paragraph Vectors.” In: Proceedings of the 2nd Workshop on Representation Learning for NLP, ACL2017, pp 121-130, 2017
+Required
+Applicable course textbook / course materials
+Additional
+English Grammar in Use, R. Murphy, CUP
+Business Vocabulary in Use, B. Mascull, CUP
+Cambridge English for Engineering, Mark Ibbotson, CUP
